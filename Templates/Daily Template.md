@@ -1,0 +1,4 @@
+- anime
+- games
+- reading
+- writing

@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"49f4fa145daaa3cd","x":-360,"y":-940,"width":460,"height":400,"type":"file","file":"Books/Thinking, Fast and Slow.md"},
+		{"id":"03450c0f11359386","x":-360,"y":-480,"width":460,"height":400,"type":"file","file":"Books/The Black Swan; The Impact of the Highly Improbable.md"},
+		{"id":"03499bb427771681","x":-1020,"y":-940,"width":480,"height":400,"color":"1","type":"file","file":"Games/Wonderful Everyday; Down the Rabbit Hole.md"},
+		{"id":"cd76769b6bac3189","x":-360,"y":-1380,"width":460,"height":400,"type":"file","file":"Books/Tractatus Logico-Philosophicus.md"}
+	],
+	"edges":[
+		{"id":"1c1eab1dab802ce0","fromNode":"49f4fa145daaa3cd","fromSide":"left","toNode":"03499bb427771681","toSide":"right","toEnd":"none"},
+		{"id":"73646bef1bbfe29c","fromNode":"03450c0f11359386","fromSide":"left","toNode":"03499bb427771681","toSide":"right","toEnd":"none"},
+		{"id":"12de02371389bf44","fromNode":"cd76769b6bac3189","fromSide":"left","toNode":"03499bb427771681","toSide":"right"}
+	]
+}

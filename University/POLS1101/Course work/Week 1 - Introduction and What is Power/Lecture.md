@@ -1,0 +1,70 @@
+## What is Politics?
+- *Essentially contest concept* (Gallie 1956)
+- *The ways in which power is organized at a level greater than the family*
+## What is Power?
+- Also contested
+- found when **agency** and **structure** meet
+	- Agency: ability to act
+	- Structure: social forces that enable or prohibit the ability to act
+	- thus power is how much agency you have in a structure that enables or disables that agency
+- 3 pairs of power covered
+- **Power Over Vs. Power To**
+	- power over
+		- *"A has Power over B to the extent that he can get B to do something that B would not otherwise do"* (Dahl 1957)
+		- often exercised via authority
+			- **Authority**: socially sanction power seen as legitimate by the people the power is exerted over 
+		- Max Webber expresses 3 kinds of authority
+			- traditional: a long history that gives you a reason (divine blessing from god, path of least resistance, commonly accepted in the past)
+			- charismatic: your personality demands the authority (Putin's personality demands authority)
+			- legal-rational: the rules of society ordain for the best social cohesion.
+	- Power to
+		- power lies in the ability to act
+		- if you buy a house, the house itself is not the power but the ability to purchases such a house
+- **Actions Vs. Systems**
+	- Actions
+		- power is manifest in your ability to make decisions
+		- visible and behavioralist, coming from outcomes.
+		- Varies on who we view as the decisions makers
+			- Direction decisions makers: individual that directly exerts individual authority
+			- those who decide what is to be decided: people who influence what decisions are even made (lobbyists)
+			- those who decide what decision makers think: those who control the beliefs that underpin decisions (media)
+	- systems
+		- power moves within the system between people
+		- is dispersed throughout society
+		- influences individual behavior and relationships
+		- *Power is everywhere and comes from everywhere* (Arendt 1958, Foucault 1991, 1998)
+		- not always coercive but can be generative
+		- informs truth and normalcy
+- **Domination vs empowerment**
+	- power is understood as being relational between 2 entities.
+	- This means one has to dominate while the other resists
+	- domination
+		- can influence others to make actions without their wishes
+		- power often reflects the dominator more than the dominated
+			- history is written by the victors ergo history is written by dominators
+		- useful to view through the view of those subordinate for a more unbiased view
+		- *Where there is power, there is domination. Where there is domination, there is resistance* (Foucault 1998)
+		- power is often analyzed by those of marginalized backgrounds
+			- Feminist Theory: Power as domination creates others seen as non-people (de Beauvoir)
+			- postcolonial theory: interested in how power as domination provoked resistance against colonialism (Subaltern studies collective)
+			- queer theory: power as domination to be disrupted for liberation (Salamon 2010)
+			- intersectionality: different forms of domination overlap to create new domination against people of multiple identities.
+	- Empowerment
+		- power as ability to transform
+		- feminist thinkers find domination inherently masculine
+		- power as containing future selves (Frantz Fanon)
+## Who has Power?
+- Elites?
+	- Oligarchs that control society
+	- possess social status and authority
+		- economic
+		- institutional
+		- military
+		- etc.
+	- elite theories often criticized for not recognizing bottom up power
+- pluralism?
+	- power is dispersed like an ecosystem
+	- criticized for being narrow and not accounting for inevitably the power balance will be spread but not uniformly (elites will still have some form of upper hand)
+	- also criticized for how it doesn't account for people that are excluded from the ecosystem in general. 
+
+### IMPORTANT: POWER IS NOT ONE THING, BINARY OR ABSOLUTE

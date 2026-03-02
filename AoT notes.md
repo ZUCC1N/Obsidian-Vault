@@ -1,0 +1,13 @@
+- the Paradis islanders are basically indoctrinated
+	- imagine a citizen of Nazi Germany being suddenly presented with their enemy, they would react like Eren and co, especially with the supernatural power to force Eldians to forget
+- Eren is actually semi useless
+	- he gets people perpetually killed, directly or indirectly (when he's kidnapped a significant number of people die to rescue him)
+	- despite that him being repeatedly told to be important inflates his ego. at the end you find out this evil manipulator is just a scared kid under it all.
+- Paradis' education and indoctrination follows Plato's *Republic*
+	- this was based off Sparta which is, the basis of fascist states :D wonder how that's relat-
+- neither Eldia, nor Paradis, nor Marley are free of the guilt of the fascist mindset
+- in the same way historia is a pawn for the royal family and the founding titan's memories affect her family, Eren upon remembering his path to the coordinate becomes exactly the same; a means to extend the resistance the attack titan is meant to represent.
+- first eren wished to kill all titans, but despite learning the truth, despite killing all titans he hated so, despite knowing they were human, despite seeing the fabled ocean.    i'r was never enough
+![[Pasted image 20250225190808.png]]
+- w-wait why are the Eldians the Nietzsche classes
+- eren thinks he's an ubermensch and retroactively thus says anything he thnks is the correct path is justified to "save his freinds from slaughter"

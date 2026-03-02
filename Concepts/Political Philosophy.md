@@ -1,0 +1,1 @@
+the study of politics through the lense of [[Philosophy]]. what is the best form of government? what constitutes good government? what are the pros and cons of different forms of government such as monarchy, communism or democracy?

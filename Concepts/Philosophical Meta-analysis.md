@@ -1,0 +1,1 @@
+the study of any other field not fitting into the main spheres of topics through the lense of [[Philosophy]]. this could be the philosophy of science or the philosophy of psychology for example.

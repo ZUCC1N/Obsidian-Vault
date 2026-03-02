@@ -1,0 +1,1 @@
+the field of [[Philosophy]] concerned with the philosophy of the past. it is a crucial part of the topic as being familiar with what came before you allows to avoid pitfalls and build upon it instead of going out on your own.

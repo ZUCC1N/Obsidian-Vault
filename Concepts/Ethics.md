@@ -1,0 +1,1 @@
+the study of what is good or bad and morals in [[Philosophy]]. it consists of 2 parts, metaethics which serves to examine ethical concepts and reasoning and normative morality which inform us on how to live and act.

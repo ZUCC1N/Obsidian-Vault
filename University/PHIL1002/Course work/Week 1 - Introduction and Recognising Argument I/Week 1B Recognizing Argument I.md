@@ -1,0 +1,72 @@
+## Recognizing Argument
+- things that can be confused for reasoning
+	- causes (give alcohol to kids to stop them drinking it later in their life)
+	- motives (leave people a will if and only if they don't drink)
+	- reasons (that alcohol has harmful effects)
+- why are reasons different?
+	- Because causes and motives follow facts while reason does
+	- reasons are true or false
+- reasoning and argument
+	- reason and arguments in philosophy are the same thing
+- Recognizing arguments
+	- is not differentiating good and bad arguments, just if it **is** argument
+	- arguments can have any forms
+		- prose
+		- poetry
+		- spoken
+		- written
+	- in philosophy an argument is always a statement
+		- Grannie has eaten the budgie. (*Declarative statement*)
+			- main tool of reasoning
+			- they assert, make claims, and declare true or false
+		- Oh no, not again! (*Exclamative statement*)
+		- yes. (*Declarative statement*)
+		- How can we get her to stop devouring the children's pets? (*interrogative statement)
+		- A psychoanalyst should be able to uncover her repressed memories of her childhood fantasies; they’re responsible for her present dysfunctional behavior. (*compound statement*)
+			- a joining sentence joined by an and, or, semicolon etc.
+		- Give it a rest! (*imperative*)
+	- Conjunction (and statements) vs Disjunction (or statements)
+		- a conjunction is true if, and only if both parts are true, while a disjunction is true if either is true.
+	- Arguments wish to justify another statement, the preceding proof statements being the premises and the final statement the conclusion based upon those premises
+		- The cat died, but the dog didn’t, so it must be the cat food which is poisoned
+			- Premise 1: the cat died.
+			- Premise 2: the dog did not die.
+			- Conclusion: the cat food was poisoned.
+		- The cat food was poisoned, and there is a putrid smell coming from the cat basket, so I infer that the cat died.
+			- Premise 1: the cat food is poisoned.
+			- Premise 2: there is a putrid smell coming from the cat basket.
+			- Conclusion: the cat died.
+	- How do we tell if something is an argument
+		- does it contain something that wishes to provide a conclusion based on previous statements.
+	- Inference occurs when truth or falsity is assumed for one statement from a connected and relevant statement, thus forming its own argument to the conclusive truthfulness of the statement.
+		- Indicated by inference indicators of 2 types
+			- premise indicators
+				- because
+				- since
+				- as
+				- for the reason that
+			- conclusion indicators
+				- so
+				- therefore
+				- thus
+### Factors that make it hard to recognize arguments
+- grammatical form and function
+	- we are interested in grammatical function, which function does not always align with form (rhetorical questions)
+	- sometimes a declarative functions as a question and interrogatives function as declarative.
+- Inference indicators can be misleading
+	- this is a conclusion indicator, but sometimes is only used illustrative.
+		- "We cannot take the least action in this world without killing numerous minute creatures. Killing per se must **thus** be a morally neutral matter." **does** use thus as a conclusion indicator
+		- "Mrs Jones was a conscientious mother; **thus**, when she took Nipper for a walk, she always made sure that his horns were concealed from view." **does not** use thus as a conclusion indicator but only to illustrate a point. (not an argument)
+	- as is a premise indicator but can sometimes be substituted for while,
+		- **"As** the present state of the universe cannot be measured exactly future events cannot be predicted exactly." uses as as a premise
+		- "As he went past the graveyard, he heard a low moan." uses As as a while
+		- "As his muscles began to ache under the strain, his attention was distracted." is entirely indeterminate about the use of as.
+	- sometimes arguments don't even contain inference indicators
+		- how do we tell? USE COMMON SENSE!!!!!
+- Nouns and noun phrases
+	- "Since the king is rather annoyed at losing his toes, it would be wise to avoid disturbing him until his mistress has had time to console him." is an argument
+	- "Because of the king’s annoyance, we should not disturb him" is also an argument and has a premise indicator.
+	- "The king’s annoyance makes it unwise to disturb him." has no indicators so seems to not be an argument, BUT it is being used equivalently to "The king is annoyed. Therefore, it is unwise to disturb him."
+- Implied conclusions
+	- "The bigger the burger, the better the burger. The burgers are bigger at Burger King." seems to have no conclusion but has the obvious *implied* conclusion "therefore, the burgers are better at Burger King".
+	- "Scientists now believe that in nature, matter cannot be destroyed without being converted to energy. Not even the tiniest particle can disappear without a trace. Nature does not know extinction – only transformation. Would God have less regard for his masterpiece of creation, the human soul?" has a less obvious implied conclusion, that god would not allow the destruction of the soul (assuming such a god does not exist)

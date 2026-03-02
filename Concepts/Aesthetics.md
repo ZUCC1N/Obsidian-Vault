@@ -1,0 +1,1 @@
+the study of art or imagery. in the purview of [[Philosophy]] it seeks to answer what makes a good aesthetic and if they are objective or subjective attributes of an object, and the classifications of different aesthetics (such as the natural world vs human creations). 

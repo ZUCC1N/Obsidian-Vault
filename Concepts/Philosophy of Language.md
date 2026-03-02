@@ -1,0 +1,1 @@
+the study of language under the lense of [[Philosophy]]. it seeks to analyse how we assign meaning to sounds, the nature of communication, meaning and the conveying of it and what even constitutes a language. it also seeks to understand how language relates to philosophy as a whole, such as its bearing on [[Epistemology]] and [[Metaphysics]].

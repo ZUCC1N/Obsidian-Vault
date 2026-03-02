@@ -1,0 +1,1 @@
+The belief that the world is informed by ideals, or the mind, first posited by [[Plato]] (where also platonic comes from, as in belonging to plato's world of ideals). this is opposed to [[Materalism]].

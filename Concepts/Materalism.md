@@ -1,0 +1,1 @@
+the belief that the world informs all and ideas are born from that. everything is explainable as physical phenomena and no spiritual or mental effect being important to how the world functions. it has a vague history unlike its polar opposite [[Idealism]].

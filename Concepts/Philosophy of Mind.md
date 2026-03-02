@@ -1,0 +1,1 @@
+the study of the mind and consciousness in [[Philosophy]]. it seeks to answer how the mind relates to reality and questions like if one precedes the other. as science has revealed an answer to such a question (in that, reality is material) it seeks a larger question; what makes our minds special?
