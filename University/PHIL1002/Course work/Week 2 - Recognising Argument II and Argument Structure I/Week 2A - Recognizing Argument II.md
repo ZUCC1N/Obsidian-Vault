@@ -51,4 +51,21 @@
 				- *Australia’s smallest coin is now the $5 piece.*
 				- *Mozart composed his best music after the age of 50.*
 	- to make statements concerning what can be and cannot be done
+		- *It is both POSSIBLE and NECESSARY for you to attend tutorials.*
+		- *Suzie CAN walk well in high heels but Jane CAN’T.*
+		- *Murgatroyd COULD HAVE come to the meeting.
+		- *It’s IMPOSSIBLE for me to reach that shelf.
+		- *Aqua regia CAN dissolve gold.*
+		- *An untrained human being CANNOT jump a two-metre bar.*
+		- *If you want to keep within the law, you MUST NOT drive at more than 40 km/h in King’s Park.*
+		- *I HAVE TO go to a meeting tomorrow.*
 	- as inference indicators
+		- *John **must be** at home: I hear someone breathing behind the door.*
+			- Premise: I hear someone breathing behind the door.
+			- Conclusion: John is at home
+		- *What I have in my hand **must be** a diamond, because I have just scratched my name on the window with it.*
+			- Premise: I have just scratched my name on the window with what i have in my hand
+			- Conclusion: what I have in my hand is a diamond.
+		- What I have in my hand **cannot be** plastic, because I have just scratched my name on the window with it.
+			- Premise: I have just scratched my name on the window with what i have in my hand
+			- Conclusion: what i have in my hand is not plastic.
