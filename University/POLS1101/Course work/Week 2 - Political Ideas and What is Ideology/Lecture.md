@@ -1,0 +1,10 @@
+- READ!!!!!!
+	- What am i reading?
+	- Why am i reading it?
+	- Learn to scan info
+	- discard not useful info
+	- read for argument, then details
+	- argument? Evidence?
+	- Ideas are often not complex, just complexly compressed.
+	- Write a single sentence summary
+	- IT'S FINE NOT TO UNDERSTAND **take note of what you don't understand**
