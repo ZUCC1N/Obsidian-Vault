@@ -98,6 +98,9 @@
 		- industrial growth
 		- faith in rational progress and knowledge
 		- you will become materially better off.
-	- critiques of modernism
+	- Critiques of modernism
 		- modernism has no end, always "conservatism" to root out
-		- improves some lives at the cost of tohers
+		- improves some lives at the cost of others
+		- largely Westernized idea of "modern"
+			- strong relationship with colonialism, globalization and integrated economic systems
+		- 
