@@ -8,13 +8,12 @@
 	- Ideas are often not complex, just complexly compressed.
 	- Write a single sentence summary
 	- IT'S FINE NOT TO UNDERSTAND **take note of what you don't understand**
-
 ## Political Theory
 - different ideas are like different glasses you can view how power works
 - theory is abstract, but shapes the decisions of decision makers and how analysts interpret.
 - Different applications determine things such if you won a home, what kind of welfare you are entitled to, if you will be conscripted etc.
 
-## How the world is
+## How the world *is*
 - Human Nature as chaos
 	- Han fei was a legal scholar called the han feizi
 		- argues humans are naturally selfish and violent, so to produce peace we need strong laws guaranteed by a strong state
@@ -143,9 +142,26 @@
 		- communism as disposition / lense
 			- does not commit yourself to Hegelian dialectics
 			- believe that oppression is economic and should be eradicated
-			- committed to workers rights
+			- committed to workers' rights
 			- informs your politics
 				- vote for greens as they challenge hierarchies
 		- communism is governance
 			- communism is the policy of ""communist"" countries and reduced to that only.
-		- cri
+		- Critiques of communism
+			- accused of authoritarianism
+				- collective good at cost of freedoms
+				- willingness to use harsh social engineering
+				- requires state violence frequently
+			- removes individual incentive
+				- if people have no private incentive to work, they won't (allegedly)
+			- classical Marxism produces a impossible utopia not as it is unachievable but because it promotes uniform and uncontested disagreement
+	- Liberalism / Capitalism
+		- we should do what we want
+		- liberalism = political ideology, capitalism = economic force
+		- historical response to absolutism, about limiting power of rulers to increase freedom of the ruled
+		- people should be free as possible without disrupting others
+			- what does this mean?
+		- not entirely european
+			- mughai limited governance in india
+			- indoneasian relgious tolerance
+		- 
