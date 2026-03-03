@@ -25,5 +25,30 @@
 	- may not
 	- probably
 - used to:
-	- to indicate something must or must be truie
-	- to make statements concering what can 
+	- to indicate something must or must not be true
+		- A very young dog is a puppy
+		- a human being CANNOT BE in two places at the same time
+		- different colors NECESSARILY exclude each other from the same area
+		- 3 + 4 = 7
+			- NECESSARILY, 3 + 4 = 7
+			- 3 and 4 MUST equal 7
+			- 3 and 4 HAVE TO BE 7
+			- The sum of 3 and 4 CANNOT be other than 7
+			- The sum of 3 and 4 CAN’T be other than 7
+		- necessities contrasted with contingencies
+			- necessary truth: statements which cannot be false
+				- see above
+			- contingent truth: statements that based on facts could be true but also could be false
+				- *English is the international language of air traffic control.* Could be, but also could be French Spanish etc.
+				- *The Vice-Chancellor of The University of Western Australia is male.* Could be but also could be false (which it is false)
+				- *There wasn’t an earthquake in Perth yesterday* could be true but also could be false (there was not)
+			- necessary falsehood: statements which cannot be true
+				- *17 is greater than 21.*
+				- *Fish are mammals.*
+				- *Biological parents are younger than their children.*
+			- Contingent falsehood: statements which aren't true but based on facts could have been.
+				- *Apples are not grown in Tasmania.*
+				- *Australia’s smallest coin is now the $5 piece.*
+				- *Mozart composed his best music after the age of 50.*
+	- to make statements concerning what can be and cannot be done
+	- as inference indicators
