@@ -15,20 +15,41 @@
 - Different applications determine things such if you won a home, what kind of welfare you are entitled to, if you will be conscripted etc.
 
 ## How the world is
-- Human nature as chaos
+- Human Nature as chaos
 	- Han fei was a legal scholar called the han feizi
 		- argues humans are naturally selfish and violent, so to produce peace we need strong laws guaranteed by a strong state
 		- not about ethics, but about order
 	- Hobbes' leviathan
 		- argues people are naturally selfish and desiring of power in a *state of nature* where "all wars against all"
 		- greatest threat is summum malum, and to avoid this, we should sacrifice ourselves to the control of the state
-- human nature as attachment
+- Human Nature as attachment
 	- Rousseau
 		- argues humans are naturally free, developing the social contract
 		- the contract is between the governed and governors, where the governed sacrifice freedom for the governors to guarantee stability.
-		- But did not see this as wholly good, lead to "degenerate" modern life (money, posessions)
+		- But did not see this as wholly good, lead to "degenerate" modern life (money, possessions)
 			- arguably plays into the racist noble savage
 	- Gautama Buddha
-		- rejects modern trappings, promoting **
+		- rejects modern trappings, promoting *Aparigraha*: non-attachment
+			- is this possible in reality on a political level?
+- Human Nature as realism
+	- realism: **humans are driven by a desire for power and survival
+	- Chanakya
+		- wrote the *Arthushastra*
+		- argues leaders should do whatever it takes to maintain stable rules, ends justify the means
+		- politics is about deceit and a game to be won
+	- Sun Tzu
+		- wrote *the art of war*
+		- argues conflict and governance aren't about ethics but order and victory.
+	- Niccolò Machiavelli
+		- Wrote *The Prince*
+		- argues politics is complicated calculus and decisions making separate to morals, but only about staying in power.
+	- Donald Trump
+		- can do whatever you please
+- Human Nature as indigenous thought
+	- focuses on societies of ethical mutual obligation
+	- implies lack of individual ownership
+	- challenges hierarchies around power and wealth accumulation
+	- ethics is collective rather than individual
+	- 
 ## How the world *Should be*
 - 
