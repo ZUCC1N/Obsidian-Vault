@@ -161,7 +161,25 @@
 		- historical response to absolutism, about limiting power of rulers to increase freedom of the ruled
 		- people should be free as possible without disrupting others
 			- what does this mean?
-		- not entirely european
-			- mughai limited governance in india
-			- indoneasian relgious tolerance
-		- 
+		- Not entirely European
+			- mughai limited governance in India
+			- Indonesian rreligious tolerance
+		- associated with fall of feudalism and the enlightenment
+		- classically considered by many
+			- Kant: individuals are the base unit of society
+			- Locke: individuals have rights, governors need consent to govern
+			- Stuart mill: something is right if it brings happiness, governments should guarantee happiness.
+				- Many thinkers had a strong idea of *who* can be free (Locke owned stocks in slaving companies)
+		- **Individualism**: humans are individuals first and should self realize by fulfilling their needs and desires
+		- **liberty**: political order should be concerned with ensuring as many people are as free as possible to pursue their interests
+		- **limited government**: the governments power should be limited so peoples freedom is not infringed upon (constitutions, checks and balances)
+		- key catalyst of self realization to the liberal is owning of private property
+		- personal liberty is ppreserved when the government is unable to infringe on your rights to private property
+		- thus the state should be only providing the infrastructure for a free market and nothing else
+		- such a system creates the greatest profits, and thus the greats individual liberty with such profit.
+		- critiques
+			- promotes indivudal good over the collective
+			- individual libery allows others to restrict your liberty
+			- capital influences free will
+			- explotation needed
+			- debate allowed but as long as it does not exit the accepted norms.
