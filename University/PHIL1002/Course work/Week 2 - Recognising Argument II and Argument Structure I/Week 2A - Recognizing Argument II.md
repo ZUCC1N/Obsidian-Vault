@@ -79,4 +79,5 @@
 				- it is impossible to know a statement is true and be wrong about it being true
 				- you can only know a statement is true when it's impossible to be wrong about that statement
 - in short the conclusion to a valid argument may be a continent truth. But a modal phrase used within it's context may mislead us to think it to be necessarily true when all it is indicating is inference.
-	- in exmaples of free will we will want concl
+	- In examples of free will we will want conclusions of capacity. Inferential sue of a modal phrase may wrongly lead one to a conclusion on capacity or lack thereof.
+- Sometimes a modal phrase may be doing **both** attributing necessity and indicating inference so it can be difficult to or impossible to be sure whether both are being done or not.
