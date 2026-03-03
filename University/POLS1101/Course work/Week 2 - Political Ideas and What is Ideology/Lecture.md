@@ -50,6 +50,26 @@
 	- implies lack of individual ownership
 	- challenges hierarchies around power and wealth accumulation
 	- ethics is collective rather than individual
-	- 
+	- parallels other places and their indigenous peoples challenges to state centric model of society.
 ## How the world *Should be*
-- 
+- ideology contested
+	- collection of ideas and propositions of the best world view and system of values
+	- everyone has an ideology
+	- will discuss *hypothetical ideologies*
+- Conservatism
+	- things should stay the same
+	- been reached by many traditional around the world
+	- finds legitimacy in a political order that **was**, not one that **will be**
+	- we are in the precipice of decline or disorder, should do what we can to stop it
+	- resists radical change
+	- NOT THE SAME AS RIGHT WING but does overlap.
+	- **Stability and order**
+		- order is the most important, and only possible through stability
+		- argues stability also allows prosperity, so we all are enriched
+		- but does not answer who it is stable for? Something can be stable but uunequal and unjust
+	- **history**
+		- to determine what to conserve, you need to know the past
+			- particularly glorious history, or history of victimhood
+		- tradiontal authority valued (pope, monarchy)
+		- 
+		- 
