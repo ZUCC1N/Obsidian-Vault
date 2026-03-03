@@ -63,13 +63,37 @@
 	- we are in the precipice of decline or disorder, should do what we can to stop it
 	- resists radical change
 	- NOT THE SAME AS RIGHT WING but does overlap.
-	- **Stability and order**
+	- **Stability and Order**
 		- order is the most important, and only possible through stability
 		- argues stability also allows prosperity, so we all are enriched
 		- but does not answer who it is stable for? Something can be stable but uunequal and unjust
-	- **history**
+	- **History**
 		- to determine what to conserve, you need to know the past
 			- particularly glorious history, or history of victimhood
-		- tradiontal authority valued (pope, monarchy)
-		- 
+		- traditional authority valued (pope, monarchy)
+		- Australian conservatism largely draws on European tradition
+		- is an issue when unequal power relations are embraced
+		- progressives can also be interested in conservative histories
+			- pre-colonial histories, queer histories, feminist histories etc.
+	- can co-opt radical change
+		- Chinese dynastic history incorporating Mongol occupation
+		- celebrating "Australia day" on a day of colonization and invasion
+		- Conservatives in the UK supporting gay marriage to protect sanctity of marriage
+	- not restricted to one side of politics
+		- patriarchy in CCP
+		- anticolonial movements led by native leading class in Philippines and India
+		- climate movements that ignore native voices
+- Modernism
+	- things should be better and change is better
+	- emerges socially as industrialization and colonialism (mostly)
+	- life can be improved every generation better than the last
+	- social features that do not make life better should be discarded
+	- **Optimism**
+		- novelty makes the world better
+		- things always improve and grow
+	- **rejection of old order**
+		- willingness to abandon tradition
+		- embodies social change and opportunity
+	- **advancement**
+		- industrial growth
 		- 
