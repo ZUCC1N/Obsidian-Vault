@@ -96,4 +96,5 @@
 		- embodies social change and opportunity
 	- **advancement**
 		- industrial growth
-		- 
+		- faith in rational progress and knowledge
+		- you will become materially better off.
