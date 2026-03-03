@@ -68,4 +68,10 @@
 			- Conclusion: what I have in my hand is a diamond.
 		- What I have in my hand **cannot be** plastic, because I have just scratched my name on the window with it.
 			- Premise: I have just scratched my name on the window with what i have in my hand
-			- Conclusion: what i have in my hand is not plastic.
+			- Conclusion: what I have in my hand is not plastic.
+		- *Although Henry killed the other girls, he **can’t** have killed Jane, **because** someone else’s fingerprints are on the murder weapon.*
+			- Premise: Someone else's fingerprints are on the murder weapon
+			- conclusion: Henry did not kill Jane.
+		- All arguments above are contingent (not necessarily true), but imply they should be true based on the premises (relative necessity)
+	- this can be confusing, as it is not always clear when a modal word as an inference indicator is referring to capacity, necessities or contingences
+		- *If you know something, you can’t be wrong about it, But you can always be wrong about anything, So, you can never know anything*
