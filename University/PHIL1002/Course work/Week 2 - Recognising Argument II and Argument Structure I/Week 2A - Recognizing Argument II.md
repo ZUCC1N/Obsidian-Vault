@@ -9,6 +9,21 @@
 	- *John has suffered brain damage; so, he will find fine control of his movements impossible.* Uses inferences and argument to justify a conclusion
 - conditional sentences
 	- sentences of the form *if X, then Y.*
-	- 
+		- this is NOT an argument
+			- in an argument, arguments are asserted to support and offer a concluding argument.
+			- In a conditional **only** the conditional for it's entirety is asserted, not the components.
+			- In a conditional, the truth and falsity of the conditional's components are indivisible; they cannot be separated from each other, otherwise they simply become sentences.
 ## Modal expressions
-- 
+- modal expression contain things such as:
+	- must
+	- necessarily
+	- possibly
+	- may
+	- can
+	- must not
+	- cannot
+	- may not
+	- probably
+- used to:
+	- to indicate something must or must be truie
+	- to make statements concering what can 
