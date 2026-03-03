@@ -68,3 +68,31 @@ annotation-target:: C:\Users\zacin\Documents\Obsidian Vault\University\PHIL1002\
 >%%TAGS%%
 >
 ^3md4b79737l
+
+
+>%%
+>```annotation-json
+>{"created":"2026-03-03T04:42:05.201Z","text":"argument???","updated":"2026-03-03T04:42:05.201Z","document":{"title":"","link":[{"href":"urn:x-pdf:7a9f1fcfd4a00a4894183d43a8d49a03"}],"documentFingerprint":"7a9f1fcfd4a00a4894183d43a8d49a03"},"uri":"urn:x-pdf:7a9f1fcfd4a00a4894183d43a8d49a03","target":[{"source":"urn:x-pdf:7a9f1fcfd4a00a4894183d43a8d49a03","selector":[{"type":"TextPositionSelector","start":1425,"end":1495},{"type":"TextQuoteSelector","exact":"Of course he's guilty. Didn't he admit that he threatened to kill her?","prefix":"t it must be Ascension Day.  c. ","suffix":"  d. All 80 students who dined i"}]}]}
+>```
+>%%
+>*%%PREFIX%%t it must be Ascension Day.  c.%%HIGHLIGHT%% ==Of course he's guilty. Didn't he admit that he threatened to kill her?== %%POSTFIX%%d. All 80 students who dined i*
+>%%LINK%%[[#^zzg8ytl9aq|show annotation]]
+>%%COMMENT%%
+>argument???
+>%%TAGS%%
+>
+^zzg8ytl9aq
+
+
+>%%
+>```annotation-json
+>{"created":"2026-03-03T04:42:40.360Z","text":"Argument","updated":"2026-03-03T04:42:40.360Z","document":{"title":"","link":[{"href":"urn:x-pdf:7a9f1fcfd4a00a4894183d43a8d49a03"}],"documentFingerprint":"7a9f1fcfd4a00a4894183d43a8d49a03"},"uri":"urn:x-pdf:7a9f1fcfd4a00a4894183d43a8d49a03","target":[{"source":"urn:x-pdf:7a9f1fcfd4a00a4894183d43a8d49a03","selector":[{"type":"TextPositionSelector","start":1244,"end":1421},{"type":"TextQuoteSelector","exact":"Jane  thought  it  must  be  Sunday  because  she  could  hear  church  bells,  but  then  she remembered that it was only Thursday and concluded that it must be Ascension Day. ","prefix":"h commoner required of him.  b. ","suffix":" c. Of course he's guilty. Didn'"}]}]}
+>```
+>%%
+>*%%PREFIX%%h commoner required of him.  b.%%HIGHLIGHT%% ==Jane  thought  it  must  be  Sunday  because  she  could  hear  church  bells,  but  then  she remembered that it was only Thursday and concluded that it must be Ascension Day.== %%POSTFIX%%c. Of course he's guilty. Didn'*
+>%%LINK%%[[#^x2u12f9sdjf|show annotation]]
+>%%COMMENT%%
+>Argument
+>%%TAGS%%
+>
+^x2u12f9sdjf
