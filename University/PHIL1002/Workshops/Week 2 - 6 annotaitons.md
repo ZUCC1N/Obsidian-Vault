@@ -30,13 +30,13 @@ annotation-target:: C:\Users\zacin\Documents\Obsidian Vault\University\PHIL1002\
 
 >%%
 >```annotation-json
->{"created":"2026-03-03T04:39:39.028Z","text":"non-argument","updated":"2026-03-03T04:39:39.028Z","document":{"title":"","link":[{"href":"urn:x-pdf:7a9f1fcfd4a00a4894183d43a8d49a03"}],"documentFingerprint":"7a9f1fcfd4a00a4894183d43a8d49a03"},"uri":"urn:x-pdf:7a9f1fcfd4a00a4894183d43a8d49a03","target":[{"source":"urn:x-pdf:7a9f1fcfd4a00a4894183d43a8d49a03","selector":[{"type":"TextPositionSelector","start":1778,"end":2114},{"type":"TextQuoteSelector","exact":"In  England  under  the  blasphemy  laws  it  is  illegal  to  express  disbelief  in  the  Christian religion. It is also illegal to teach what Christ taught on the subject of non-resistance. Therefore, whoever wishes to avoid being a criminal must profess to agree with Christ's teachings but must avoid saying what that teaching was.","prefix":"inner in college on Friday.  e. ","suffix":"  f. The  reason  I  oppose  the"}]}]}
+>{"created":"2026-03-03T04:39:39.028Z","text":"argument","updated":"2026-03-03T04:39:39.028Z","document":{"title":"","link":[{"href":"urn:x-pdf:7a9f1fcfd4a00a4894183d43a8d49a03"}],"documentFingerprint":"7a9f1fcfd4a00a4894183d43a8d49a03"},"uri":"urn:x-pdf:7a9f1fcfd4a00a4894183d43a8d49a03","target":[{"source":"urn:x-pdf:7a9f1fcfd4a00a4894183d43a8d49a03","selector":[{"type":"TextPositionSelector","start":1778,"end":2114},{"type":"TextQuoteSelector","exact":"In  England  under  the  blasphemy  laws  it  is  illegal  to  express  disbelief  in  the  Christian religion. It is also illegal to teach what Christ taught on the subject of non-resistance. Therefore, whoever wishes to avoid being a criminal must profess to agree with Christ's teachings but must avoid saying what that teaching was.","prefix":"inner in college on Friday.  e. ","suffix":"  f. The  reason  I  oppose  the"}]}]}
 >```
 >%%
 >*%%PREFIX%%inner in college on Friday.  e.%%HIGHLIGHT%% ==In  England  under  the  blasphemy  laws  it  is  illegal  to  express  disbelief  in  the  Christian religion. It is also illegal to teach what Christ taught on the subject of non-resistance. Therefore, whoever wishes to avoid being a criminal must profess to agree with Christ's teachings but must avoid saying what that teaching was.== %%POSTFIX%%f. The  reason  I  oppose  the*
 >%%LINK%%[[#^ikl82khtoii|show annotation]]
 >%%COMMENT%%
->non-argument
+>argument
 >%%TAGS%%
 >
 ^ikl82khtoii
