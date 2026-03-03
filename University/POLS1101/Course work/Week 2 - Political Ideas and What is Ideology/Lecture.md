@@ -125,4 +125,27 @@
 			- directly materialist, food, money, productive power.
 		- Core is people should be emancipated from injustice, and injustice is caused by unequal economic conditions that bring material conditions under the control of elites over workers
 		- emerges from Marxist thought but expands upon it.
-		- People should be free to live where they are free to pursue leisure and self realization
+		- People should be free to live where they are free to pursue leisure and self realization, only possible thought collective struggle
+		- oppression stops self realization manifest in private ownership of means of production
+		- solved by common ownership of means of production
+		- reliant on modernization
+		- socialism
+			- broader than communism but born from it
+			- characterized by large social welfare, nationalism of industry and strong labor laws
+			- crude comparison says communists want power through revolution, socialists through evolution
+			- for classical Marxists, socialism is a step between capitalism and communism
+			- not all socialists are communists, they can choose not to believe in the end state of communism
+			- social democracy -in-between of welfare state and free market economy.
+		- Communism as outcome
+			- classic Marxists argue in dialectics in history to push humanity forward
+				- each historical state (thesis) contains a fundamental tension (antithesis) that leads to conflict and a new historical stage (synthesis)
+			- Marxists argue the final stage is a communist utopia with no antithesis
+		- communism as disposition / lense
+			- does not commit yourself to Hegelian dialectics
+			- believe that oppression is economic and should be eradicated
+			- committed to workers rights
+			- informs your politics
+				- vote for greens as they challenge hierarchies
+		- communism is governance
+			- communism is the policy of ""communist"" countries and reduced to that only.
+		- cri
