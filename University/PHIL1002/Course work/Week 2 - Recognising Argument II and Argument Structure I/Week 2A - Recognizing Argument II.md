@@ -73,5 +73,10 @@
 			- Premise: Someone else's fingerprints are on the murder weapon
 			- conclusion: Henry did not kill Jane.
 		- All arguments above are contingent (not necessarily true), but imply they should be true based on the premises (relative necessity)
-	- this can be confusing, as it is not always clear when a modal word as an inference indicator is referring to capacity, necessities or contingences
+	- this can be confusing, as it is not always clear when a modal word as an inference indicator is referring to capacity, necessities or contingencies
 		- *If you know something, you can’t be wrong about it, But you can always be wrong about anything, So, you can never know anything*
+			- this is an ambiguous statement due to the can't in the first argument as it has 2 meanings
+				- it is impossible to know a statement is true and be wrong about it being true
+				- you can only know a statement is true when it's impossible to be wrong about that statement
+- in short the conclusion to a valid argument may be a continent truth. But a modal phrase used within it's context may mislead us to think it to be necessarily true when all it is indicating is inference.
+	- in exmaples of free will we will want concl
