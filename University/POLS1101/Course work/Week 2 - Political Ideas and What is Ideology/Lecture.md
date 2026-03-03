@@ -103,4 +103,26 @@
 		- improves some lives at the cost of others
 		- largely Westernized idea of "modern"
 			- strong relationship with colonialism, globalization and integrated economic systems
-		- 
+	- ambivalent to ideology, operating in many different systems
+		- Maoist China, Soviet Union
+		- liberal capitalist Silicon Valley
+		- social modernism in teals
+- left wing vs right wing
+	- born from the French Revolution
+		- those who supported the king and church sat on the right of the national assembly
+		- those who supported the revolution sat on the left of the national assembly
+	- characterized by party of order (right) vs party of movement (left)
+	- understood as distributive political differences
+		- left distributes to the workers, the right to the rulers
+	- left seeks to eradicate social hierarchy
+	- right seeks to maintain social hierarchy
+	- implicitly euro-centric
+		- India parties are divided along ethnic lines
+	- communism
+		- we should be free from injustice together
+		- reaction to injustices of industrial capitalism
+		- believes injustice is fundamentally tied to economic domination / subordination
+			- directly materialist, food, money, productive power.
+		- Core is people should be emancipated from injustice, and injustice is caused by unequal economic conditions that bring material conditions under the control of elites over workers
+		- emerges from Marxist thought but expands upon it.
+		- People should be free to live where they are free to pursue leisure and self realization
