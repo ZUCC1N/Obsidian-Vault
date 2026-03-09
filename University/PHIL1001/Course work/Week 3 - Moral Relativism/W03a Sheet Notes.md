@@ -16,13 +16,13 @@ annotation-target:: C:\Users\zacin\Documents\Obsidian Vault\University\PHIL1001\
 
 >%%
 >```annotation-json
->{"created":"2026-03-09T10:18:45.035Z","text":"a","updated":"2026-03-09T10:18:45.035Z","document":{"title":"Microsoft Word - PHIL1001 W03c - Relativism (Lecture Printout) UNFINISHED.docx","link":[{"href":"urn:x-pdf:1f4ce4600ffd0e9e225d9895390db447"}],"documentFingerprint":"1f4ce4600ffd0e9e225d9895390db447"},"uri":"urn:x-pdf:1f4ce4600ffd0e9e225d9895390db447","target":[{"source":"urn:x-pdf:1f4ce4600ffd0e9e225d9895390db447","selector":[{"type":"TextPositionSelector","start":1471,"end":1650},{"type":"TextQuoteSelector","exact":"P2’. __________________________________________________________________________________         __________________________________________________________________________________ ","prefix":" accept different moral codes.  ","suffix":" C.’ (Probably) There no single "}]}]}
+>{"created":"2026-03-09T10:18:45.035Z","text":"if members of different cultures accept different moral codes, then this fact is **best explained** by the fact that no single moral code is uniquely true, applying to all rational agents.","updated":"2026-03-09T10:18:45.035Z","document":{"title":"Microsoft Word - PHIL1001 W03c - Relativism (Lecture Printout) UNFINISHED.docx","link":[{"href":"urn:x-pdf:1f4ce4600ffd0e9e225d9895390db447"}],"documentFingerprint":"1f4ce4600ffd0e9e225d9895390db447"},"uri":"urn:x-pdf:1f4ce4600ffd0e9e225d9895390db447","target":[{"source":"urn:x-pdf:1f4ce4600ffd0e9e225d9895390db447","selector":[{"type":"TextPositionSelector","start":1471,"end":1650},{"type":"TextQuoteSelector","exact":"P2’. __________________________________________________________________________________         __________________________________________________________________________________ ","prefix":" accept different moral codes.  ","suffix":" C.’ (Probably) There no single "}]}]}
 >```
 >%%
 >*%%PREFIX%%accept different moral codes.%%HIGHLIGHT%% ==P2’. __________________________________________________________________________________         __________________________________________________________________________________== %%POSTFIX%%C.’ (Probably) There no single*
 >%%LINK%%[[#^46s36zdl42y|show annotation]]
 >%%COMMENT%%
->a
+>if members of different cultures accept different moral codes, then this fact is **best explained** by the fact that no single moral code is uniquely true, applying to all rational agents.
 >%%TAGS%%
 >
 ^46s36zdl42y
