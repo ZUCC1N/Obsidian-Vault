@@ -1,0 +1,131 @@
+- find writing formula that works for me.
+- tips
+	- CLARITY AT ALL COSTS
+	- answer the question, use it's language in answering
+	- ensure you have an argument and stick to it
+	- clear introduction
+	- rules of 3 useful for structuring write simply and use language you understand
+	- Orwell *Politics and the English Language*
+		- surgically remove unnecessary language
+## how to get power
+- why do people accept power from a small group?
+- how do you convince people
+	- the smartest?
+	- the strongest?
+	- the richest?
+	- maybe none of these?
+- you will have to convince people you have the same goal
+- thus create *we*
+### Collective Identity
+- how do groups emerge?
+	- shared experience, interests, ancestry etc.
+	- meaningful to individuals, define us.
+	- birds of a feather flock together, principle of homophily
+	- made of interlocking and overlapping social groups
+	- politics is negotiation between these groups.
+	- Primordialism
+		- fixed by our innate characteristics of a group
+		- society is an organising these existing identities
+		- does not account for how identities change or hybrid identity
+		- ethnosymbolists (sophisticated primordialist) acknowledge change but draw back to the root
+	- structuralism
+		- collective identity is born from outcomes of structural processes
+		- if structures change (economic, political, environmental) new identities emerge
+			- eg working class emerges due to economic changes
+			- during British India, many Muslims moved to Pakistan, now known as *mohajir*
+	- constructivism
+		- collective identity is built and maintained, not natural.
+			- if WA seceded from Australia, a WA national identity would be constructed
+			- Foucault wrote how homosexual and heterosexual identity were constructed via scientific knowledge, not sexual behaviour
+		- acts through encouraging a shared language, shared religion, shared kinship.
+		- sub-version; instrumentalism
+			- are constructed, but by elites for political purposes
+				- Indonesia had never been a nation, but after Dutch east indies, anti colonial revolutionaries produced a national identity in order to launch a successful resistance movement
+		- historical legitimacy?
+			- just because identity is constructed, does not have no historical legitimacy
+			- often based upon historical identities
+				- argument Hindu as we know it is a modern invention, only 200 years old but based on historical texts
+			- having tradition implies authority
+			- sometimes it needs to be invented
+		- symbols
+			- collective constructed identities are often based on shared symbols
+			- australia has said to be having an identitiy crisis
+				- are we British? Asian? American sponsored?
+				- what symbols exist to reassure us?
+- changing identity
+	- identities are processes not categories., no category stays the same
+	- means identity is about tracing changes, not pinpointing boundaries
+- us and them
+	- collective identity is a process of social differentiation
+	- "we are who we are because we are not them."
+		- we are Serbs as we are not bosniak
+		- we are workers because we are not landlords
+		- we are cis because we are not queer
+	- the *constitutive other*
+	- why?
+		- maybe the other did something perceived as bad
+			- Indian national identity to response to cruelty of colonialism
+			- collective identity of Han Chinese when face with Mongol aggression and yuan rule
+		- so we can dominate
+			- racial hierarchy
+			- white Australia vs ""immigrants"" competing over resources
+	- sometimes we do not construct the identity but is put upon us.
+		- blackness was created by white people
+		- LGBT was created by coloniser cis men (which does not map onto societies such as Indonesia)
+		- India dividing along religious lines
+	- can be indirect
+		- British censuses solidified the Indian caste system
+		- ethnic borders in Africa lead ethnic categories meant very different things.
+#### Ethnicity
+- emerges from *ethnos* shared decent, language, religion, and customs
+- evolves into the *myth* of ancestry, believed innate traits, and ascriptive identity
+- further into attributes associated with descent
+- has only mattered in modern contexts
+	- often not even considered important (funan kingdom)
+- ethnicity often emerges out of conflict
+	- Hegelian dialectics and the constitutive other
+	- Han Chinese only emerges due to Mongol invasion/occupation
+	- being Croat, bosniak, Serb, Slovene or Kosovar, only matters during conflict.
+- when does it matter?
+	- conflict (see above)
+	- when identity markers begin to coincide
+		- suddenly all Gujaratis in a town are rich and speak their own language, living in the same communities
+		- all Hungarians are poor, no one speaks to them in the common lingua franca, all the same slum
+	- when it becomes useful
+		- short hand for people you can trust more than others
+		- homophily
+		- not necessarily true, perception matters
+			- ethnicity emerges in Asia due to silk road and melting pot people coming together for shared trade, live, play with those they know.
+		- fluid, can matter sometimes, other times not.
+#### Race
+- there is a biological difference between groups, and it is significant
+- usually based on phenotypical variations such as skin colour, but not always
+- not scientifically backed, but has come to have meaning socially
+- medieval Arabs tied phenotype to geography and environment, Europe to religion
+- JUST BECAUSE IT IS MADE UP DOES NOT MAKE IT NOT IMPORTANT
+- modern ideas of race arise from colonialism and transatlantic slave trade
+- the new world needed vast amounts of labour, increased as colonialism intensified
+- lead to a new type of slavery involving abducting Africans to secure laborers.
+- inconsistent with humanism
+- to enslave people, you have to denigrate them below human (BEUVIOUR)
+- systemic slavery created to justify treatment of humans that would be deemed immoral by a humanist
+- reinforced through phrenology, but also early anthropology
+	- fed into the enlightenments fixation on hierarchy and categories.
+#### Nation
+- are nations ancient
+	- primordialists: yes, inheritors of ancient legacies
+		- Han Chinese inheritors of the Qin
+		- Israeli society is birth right of descendants of king Solomon
+		- India reclamation of the rule of ramrajya
+	- not much academic research as it doesn't hold
+	- **Nation**: *imagined* political *community* that is *limited* and *sovereign*
+		- imagined: not physical
+		- community: group of people
+		- limited: insiders and outsiders
+		- sovereign: exclusive power over affairs.
+	- nations can only occur through the homogenisation of socio-linguistics
+		- print capitalism
+		- mass readership requires shared language
+		- single language must eradicate vernacular languages and identities.
+	- nations are NOT states
+	- nations are groups of people, are states are political association.
