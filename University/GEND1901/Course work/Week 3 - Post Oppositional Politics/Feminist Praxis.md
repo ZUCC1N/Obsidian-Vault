@@ -1,0 +1,6 @@
+- Praxis the integration of philosophical, theoretical and practical work
+- includes practice but is not reduced to it
+- helps to connect:
+	- philosophical critique of patriarchy
+	- theorization of new analytical and conceptual frameworks
+	- practical work of disrupting old regimes and forging new ones.

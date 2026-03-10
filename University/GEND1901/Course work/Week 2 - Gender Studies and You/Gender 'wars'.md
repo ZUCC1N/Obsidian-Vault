@@ -1,0 +1,5 @@
+- Gender can mean many different things to different people
+	- an internalized and personal experience that should be respected to express
+	- a material fact of reality that impacts our lives regardless of identity or feelings
+	- a reductive and damaging category that should be abolished
+	- indivisible from ideology
