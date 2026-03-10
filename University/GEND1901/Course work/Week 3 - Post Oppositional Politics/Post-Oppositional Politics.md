@@ -1,0 +1,8 @@
+- Presupposes oppositional politics
+	- binary thinking
+	- adversarialism
+	- over-emphasizing identity-based differences
+	- hinders the ability to form community or alliances
+	- also enforces status quo
+	- encourages self-defensive thinking and relating
+	- limits capacity to imagine alternative systems
