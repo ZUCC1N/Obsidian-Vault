@@ -1,0 +1,1 @@
+- Pronouns should be replaced with nouns when you standardize
