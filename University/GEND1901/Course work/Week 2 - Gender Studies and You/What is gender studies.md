@@ -1,1 +1,22 @@
-- born from feminism (18th century) and women's libverations (1960s)
+- Born from 
+	- feminism (18th century)
+	- women's liberation movement (1960s)
+	- civil rights movement (1950s)
+	- women's studies (1970s)
+	- gay liberation (1960s)
+	- masculinity studies (1980s)
+	- queer theory (1990s)
+	- transgender activism and theory (21st century)
+- focuses on "identity politics"
+	- weak variant: identity shapes one's politics
+	- strong variant: political action should be organized around identity
+	- historically tied to recognizing and mitigating injustice
+	- weaknesses
+		- focus on difference weakness chance of alliance
+		- tends towards essentializing selfhood at the cost of cultivating freedom or liberation from identities
+		- reliant on narratives of victimization and oppression.
+- Connection to feminism is not entirely clean
+	- gender studies based around a poststructuralist view of the world
+		- poststructuralism: stresses reality is structured through language and discourse, the process of recognizing this construction called deconstruction
+	- Judith Butler takes to extreme by implying sex is constructed around assumptions of biological gender.
+	- However some feminists have been alarmed with the effect of replacing the distinction of men and women with "gender" obscuring difference.
