@@ -1,0 +1,1 @@
+- born from feminism (18th century) and women's libverations (1960s)
