@@ -166,3 +166,27 @@ annotation-target:: C:\Users\zacin\Documents\Obsidian Vault\University\PHIL1002\
 >%%TAGS%%
 >
 ^yhyj62aeyp
+
+
+>%%
+>```annotation-json
+>{"created":"2026-03-13T06:00:28.043Z","text":"(a) \\<Whensoever a man Transferreth his Right, or Renounceth it; it is either in consideration of some Right reciprocally transferred to himselfe; or for some other good he hopeth for thereby.\\> <u>For</u> (b) \\<it is a voluntary act:\\> and (c) \\<of the voluntary acts of every man, the object is some Good to himselfe\\>. And <u>therefore</u> (d) \\<there be some Rights, which no man can be understood by any words, or other signes, to have abandoned, or transferred.\\>\n\n(a) ... [Prem.]\n(b) ... [Prem.]\n(c) ... [Prem.]\n(d) ... [a, b, c]\n\nP1. Whensoever a man Transferreth his Right, or Renounceth it; it is either in consideration of some Right reciprocally transferred to himselfe; or for some other good he hopeth for thereby. [Prem.]\nP2. [A transfer] is a voluntary act: [Prem.]\nP3. Of the voluntary acts of every man, the object is some Good to himselfe. [Prem.]\nC. There be some Rights, which no man can be understood by any words, or other signes, to have abandoned, or transferred. [P1, P2, P3]","updated":"2026-03-13T06:00:28.043Z","document":{"title":"","link":[{"href":"urn:x-pdf:7a9f1fcfd4a00a4894183d43a8d49a03"}],"documentFingerprint":"7a9f1fcfd4a00a4894183d43a8d49a03"},"uri":"urn:x-pdf:7a9f1fcfd4a00a4894183d43a8d49a03","target":[{"source":"urn:x-pdf:7a9f1fcfd4a00a4894183d43a8d49a03","selector":[{"type":"TextPositionSelector","start":5005,"end":5428},{"type":"TextQuoteSelector","exact":"Whensoever a man Transferreth his Right, or Renounceth it; it is either in consideration of some Right reciprocally transferred to himselfe; or for some other good he hopeth for thereby. For it is a voluntary act: and of the voluntary acts of every man, the object is some Good to himselfe. And therefore there be some Rights, which no man can be understood by any words, or other signes, to have abandoned, or transferred.","prefix":" Leviathan, by Thomas Hobbes.]  ","suffix":"  Week 4: Support and acceptabil"}]}]}
+>```
+>%%
+>*%%PREFIX%%Leviathan, by Thomas Hobbes.]%%HIGHLIGHT%% ==Whensoever a man Transferreth his Right, or Renounceth it; it is either in consideration of some Right reciprocally transferred to himselfe; or for some other good he hopeth for thereby. For it is a voluntary act: and of the voluntary acts of every man, the object is some Good to himselfe. And therefore there be some Rights, which no man can be understood by any words, or other signes, to have abandoned, or transferred.== %%POSTFIX%%Week 4: Support and acceptabil*
+>%%LINK%%[[#^ti7sajzm2tc|show annotation]]
+>%%COMMENT%%
+>(a) \<Whensoever a man Transferreth his Right, or Renounceth it; it is either in consideration of some Right reciprocally transferred to himselfe; or for some other good he hopeth for thereby.\> <u>For</u> (b) \<it is a voluntary act:\> and (c) \<of the voluntary acts of every man, the object is some Good to himselfe\>. And <u>therefore</u> (d) \<there be some Rights, which no man can be understood by any words, or other signes, to have abandoned, or transferred.\>
+>
+>(a) ... [Prem.]
+>(b) ... [Prem.]
+>(c) ... [Prem.]
+>(d) ... [a, b, c]
+>
+>P1. Whensoever a man Transferreth his Right, or Renounceth it; it is either in consideration of some Right reciprocally transferred to himselfe; or for some other good he hopeth for thereby. [Prem.]
+>P2. [A transfer] is a voluntary act: [Prem.]
+>P3. Of the voluntary acts of every man, the object is some Good to himselfe. [Prem.]
+>C. There be some Rights, which no man can be understood by any words, or other signes, to have abandoned, or transferred. [P1, P2, P3]
+>%%TAGS%%
+>
+^ti7sajzm2tc
