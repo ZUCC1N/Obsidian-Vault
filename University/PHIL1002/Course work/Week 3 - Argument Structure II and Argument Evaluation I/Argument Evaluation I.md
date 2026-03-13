@@ -7,5 +7,4 @@
 	2. Where or not they are true, how much support do they offer to the conclusion?
 - When evaluating the support of an argument, assume the argument is true.
 - Valid = complete **support** for the argument
-- deductive validity
-	- 
+- 
