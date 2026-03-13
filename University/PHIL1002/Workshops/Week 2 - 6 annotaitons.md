@@ -96,3 +96,42 @@ annotation-target:: C:\Users\zacin\Documents\Obsidian Vault\University\PHIL1002\
 >%%TAGS%%
 >
 ^x2u12f9sdjf
+
+
+>%%
+>```annotation-json
+>{"created":"2026-03-13T05:17:08.586Z","text":"{a) \\<Beware\\>; <u>for</u> (b) \\<I am fearless\\>, and <u>therefore</u> (c) \\<powerful\\>\n\n(b) ... [Prem.]\n(c) ... [b]\n(a) ... [c]\n\nP1. I am fearless [Prem.]\nP2. [I am] powerful [P1]\nC.   [You should] beware [P2]","updated":"2026-03-13T05:17:08.586Z","document":{"title":"","link":[{"href":"urn:x-pdf:7a9f1fcfd4a00a4894183d43a8d49a03"}],"documentFingerprint":"7a9f1fcfd4a00a4894183d43a8d49a03"},"uri":"urn:x-pdf:7a9f1fcfd4a00a4894183d43a8d49a03","target":[{"source":"urn:x-pdf:7a9f1fcfd4a00a4894183d43a8d49a03","selector":[{"type":"TextPositionSelector","start":3633,"end":3682},{"type":"TextQuoteSelector","exact":"Beware; for I am fearless, and therefore powerful","prefix":"material in square brackets. 1. ","suffix":". (Mary Shelley, Frankenstein)  "}]}]}
+>```
+>%%
+>*%%PREFIX%%material in square brackets. 1.%%HIGHLIGHT%% ==Beware; for I am fearless, and therefore powerful== %%POSTFIX%%. (Mary Shelley, Frankenstein)*
+>%%LINK%%[[#^rx7x2kzk2aa|show annotation]]
+>%%COMMENT%%
+>{a) \<Beware\>; <u>for</u> (b) \<I am fearless\>, and <u>therefore</u> (c) \<powerful\>
+>
+>(b) ... [Prem.]
+>(c) ... [b]
+>(a) ... [c]
+>
+>P1. I am fearless [Prem.]
+>P2. [I am] powerful [P1]
+>C.   [You should] beware [P2]
+>%%TAGS%%
+>
+^rx7x2kzk2aa
+
+
+>%%
+>```annotation-json
+>{"created":"2026-03-13T05:23:00.616Z","text":"The world could not have been created three days before the sun. Either the concept of a day is not defined by reference to the sun, or there could not have been a world three days before there was a sun, since if a day is defined this way, there would be no way of measuring days \nbefore there was a sun. The concept of a day is defined as a period between one sunrise and \nthe next; that means that it is defined by reference to the sun. Thus, it follows that at least one \nthing in the Bible is false.","updated":"2026-03-13T05:23:00.616Z","document":{"title":"","link":[{"href":"urn:x-pdf:7a9f1fcfd4a00a4894183d43a8d49a03"}],"documentFingerprint":"7a9f1fcfd4a00a4894183d43a8d49a03"},"uri":"urn:x-pdf:7a9f1fcfd4a00a4894183d43a8d49a03","target":[{"source":"urn:x-pdf:7a9f1fcfd4a00a4894183d43a8d49a03","selector":[{"type":"TextPositionSelector","start":3720,"end":4221},{"type":"TextQuoteSelector","exact":"The world could not have been created three days before the sun. Either the concept of a day is not defined by reference to the sun, or there could not have been a world three days before there was a sun, since if a day is defined this way, there would be no way of measuring days before there was a sun. The concept of a day is defined as a period between one sunrise and the next; that means that it is defined by reference to the sun. Thus, it follows that at least one thing in the Bible is false.","prefix":"y Shelley, Frankenstein)  2  2. ","suffix":"  3. The \"total energy\" of a phy"}]}]}
+>```
+>%%
+>*%%PREFIX%%y Shelley, Frankenstein)  2  2.%%HIGHLIGHT%% ==The world could not have been created three days before the sun. Either the concept of a day is not defined by reference to the sun, or there could not have been a world three days before there was a sun, since if a day is defined this way, there would be no way of measuring days before there was a sun. The concept of a day is defined as a period between one sunrise and the next; that means that it is defined by reference to the sun. Thus, it follows that at least one thing in the Bible is false.== %%POSTFIX%%3. The "total energy" of a phy*
+>%%LINK%%[[#^ez272tg9fce|show annotation]]
+>%%COMMENT%%
+>The world could not have been created three days before the sun. Either the concept of a day is not defined by reference to the sun, or there could not have been a world three days before there was a sun, since if a day is defined this way, there would be no way of measuring days 
+>before there was a sun. The concept of a day is defined as a period between one sunrise and 
+>the next; that means that it is defined by reference to the sun. Thus, it follows that at least one 
+>thing in the Bible is false.
+>%%TAGS%%
+>
+^ez272tg9fce
