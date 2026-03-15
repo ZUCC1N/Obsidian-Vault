@@ -67,3 +67,17 @@ annotation-target:: University/PHIL1002/Course work/A Practical Study of Argumen
 >%%TAGS%%
 >
 ^99epsotouzu
+
+
+>%%
+>```annotation-json
+>{"created":"2026-03-15T08:59:09.170Z","text":"Of the varied forms of crime, (a) \\<bank robbery is the most satisfactory to both the individual and society.\\> (b) \\<The individual of course gets a lot of money,\\> that goes without saying, and (c) \\<he benefits society by putting large amounts of cash back into circulation.\\> (d) \\<The economy is stimulated,\\> (e) \\<small businessmen prosper;\\> (f) \\<people read about the crime with great interest,\\> and (g) \\<the police have a chance to exercise their skills.\\> (a) \\<Good for all.\\>","updated":"2026-03-15T08:59:09.170Z","document":{"title":"A Practical Study of Argument Enhanced Edition, 8th ed.","link":[{"href":"urn:x-pdf:1deb388e8afce677ea205bdb0eb52b3e"},{"href":"vault:/University/PHIL1002/Course%20work/A%20Practical%20Study%20of%20Argument.pdf"}],"documentFingerprint":"1deb388e8afce677ea205bdb0eb52b3e"},"uri":"vault:/University/PHIL1002/Course%20work/A%20Practical%20Study%20of%20Argument.pdf","target":[{"source":"vault:/University/PHIL1002/Course%20work/A%20Practical%20Study%20of%20Argument.pdf","selector":[{"type":"TextPositionSelector","start":137189,"end":137611},{"type":"TextQuoteSelector","exact":"Of the varied forms of crime, bank robbery is the most satisfactory to both theindividual and society. The individual of course gets a lot of money, that goeswithout saying, and he benefits society by putting large amounts of cash back intocirculation. The economy is stimulated, small businessmen prosper; people readabout the crime with great interest, and the police have a chance to exercise theirskills. Good for all.","prefix":"Discover, July 1986, p. 56)14. “","suffix":"”(From Harry Harrison, The Stain"}]}]}
+>```
+>%%
+>*%%PREFIX%%Discover, July 1986, p. 56)14. “%%HIGHLIGHT%% ==Of the varied forms of crime, bank robbery is the most satisfactory to both theindividual and society. The individual of course gets a lot of money, that goeswithout saying, and he benefits society by putting large amounts of cash back intocirculation. The economy is stimulated, small businessmen prosper; people readabout the crime with great interest, and the police have a chance to exercise theirskills. Good for all.== %%POSTFIX%%”(From Harry Harrison, The Stain*
+>%%LINK%%[[#^56pb9r7egu|show annotation]]
+>%%COMMENT%%
+>Of the varied forms of crime, (a) \<bank robbery is the most satisfactory to both the individual and society.\> (b) \<The individual of course gets a lot of money,\> that goes without saying, and (c) \<he benefits society by putting large amounts of cash back into circulation.\> (d) \<The economy is stimulated,\> (e) \<small businessmen prosper;\> (f) \<people read about the crime with great interest,\> and (g) \<the police have a chance to exercise their skills.\> (a) \<Good for all.\>
+>%%TAGS%%
+>
+^56pb9r7egu
