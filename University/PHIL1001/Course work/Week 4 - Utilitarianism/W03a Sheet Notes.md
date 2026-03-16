@@ -110,3 +110,45 @@
 >%%TAGS%%
 >
 ^h8izcb670gs
+
+
+>%%
+>```annotation-json
+>{"created":"2026-03-16T14:11:56.376Z","text":"is universalist","updated":"2026-03-16T14:11:56.376Z","document":{"title":"PHIL1001 W04c - Utilitarianism (Lecture Printout)2","link":[{"href":"urn:x-pdf:f5556e7c5c15b2f7853b97b7f3aa9498"},{"href":"vault:/University/PHIL1001/Course%20work/Worksheets/W04a%20-%20Utilitarianism.pdf"}],"documentFingerprint":"f5556e7c5c15b2f7853b97b7f3aa9498"},"uri":"vault:/University/PHIL1001/Course%20work/Worksheets/W04a%20-%20Utilitarianism.pdf","target":[{"source":"vault:/University/PHIL1001/Course%20work/Worksheets/W04a%20-%20Utilitarianism.pdf","selector":[{"type":"TextPositionSelector","start":4361,"end":4363},{"type":"TextQuoteSelector","exact":"1.","prefix":"pared with some of its rivals.  ","suffix":" _______________________________"}]}]}
+>```
+>%%
+>*%%PREFIX%%pared with some of its rivals.%%HIGHLIGHT%% ==1.== %%POSTFIX%%_______________________________*
+>%%LINK%%[[#^in4qp0gavs|show annotation]]
+>%%COMMENT%%
+>is universalist
+>%%TAGS%%
+>
+^in4qp0gavs
+
+
+>%%
+>```annotation-json
+>{"created":"2026-03-16T14:13:01.713Z","text":"yet allows for some relativity","updated":"2026-03-16T14:13:01.713Z","document":{"title":"PHIL1001 W04c - Utilitarianism (Lecture Printout)2","link":[{"href":"urn:x-pdf:f5556e7c5c15b2f7853b97b7f3aa9498"},{"href":"vault:/University/PHIL1001/Course%20work/Worksheets/W04a%20-%20Utilitarianism.pdf"}],"documentFingerprint":"f5556e7c5c15b2f7853b97b7f3aa9498"},"uri":"vault:/University/PHIL1001/Course%20work/Worksheets/W04a%20-%20Utilitarianism.pdf","target":[{"source":"vault:/University/PHIL1001/Course%20work/Worksheets/W04a%20-%20Utilitarianism.pdf","selector":[{"type":"TextPositionSelector","start":4450,"end":4452},{"type":"TextQuoteSelector","exact":"2.","prefix":"______________________________  ","suffix":" _______________________________"}]}]}
+>```
+>%%
+>*%%PREFIX%%______________________________%%HIGHLIGHT%% ==2.== %%POSTFIX%%_______________________________*
+>%%LINK%%[[#^8bnx16cbpc|show annotation]]
+>%%COMMENT%%
+>yet allows for some relativity
+>%%TAGS%%
+>
+^8bnx16cbpc
+
+
+>%%
+>```annotation-json
+>{"created":"2026-03-16T14:13:09.209Z","text":"impartial","updated":"2026-03-16T14:13:09.209Z","document":{"title":"PHIL1001 W04c - Utilitarianism (Lecture Printout)2","link":[{"href":"urn:x-pdf:f5556e7c5c15b2f7853b97b7f3aa9498"},{"href":"vault:/University/PHIL1001/Course%20work/Worksheets/W04a%20-%20Utilitarianism.pdf"}],"documentFingerprint":"f5556e7c5c15b2f7853b97b7f3aa9498"},"uri":"vault:/University/PHIL1001/Course%20work/Worksheets/W04a%20-%20Utilitarianism.pdf","target":[{"source":"vault:/University/PHIL1001/Course%20work/Worksheets/W04a%20-%20Utilitarianism.pdf","selector":[{"type":"TextPositionSelector","start":4539,"end":4541},{"type":"TextQuoteSelector","exact":"3.","prefix":"______________________________  ","suffix":" _______________________________"}]}]}
+>```
+>%%
+>*%%PREFIX%%______________________________%%HIGHLIGHT%% ==3.== %%POSTFIX%%_______________________________*
+>%%LINK%%[[#^b4vsld2ryew|show annotation]]
+>%%COMMENT%%
+>impartial
+>%%TAGS%%
+>
+^b4vsld2ryew
