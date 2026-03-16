@@ -152,3 +152,45 @@
 >%%TAGS%%
 >
 ^b4vsld2ryew
+
+
+>%%
+>```annotation-json
+>{"created":"2026-03-16T14:13:17.253Z","text":"aligns with social progress","updated":"2026-03-16T14:13:17.253Z","document":{"title":"PHIL1001 W04c - Utilitarianism (Lecture Printout)2","link":[{"href":"urn:x-pdf:f5556e7c5c15b2f7853b97b7f3aa9498"},{"href":"vault:/University/PHIL1001/Course%20work/Worksheets/W04a%20-%20Utilitarianism.pdf"}],"documentFingerprint":"f5556e7c5c15b2f7853b97b7f3aa9498"},"uri":"vault:/University/PHIL1001/Course%20work/Worksheets/W04a%20-%20Utilitarianism.pdf","target":[{"source":"vault:/University/PHIL1001/Course%20work/Worksheets/W04a%20-%20Utilitarianism.pdf","selector":[{"type":"TextPositionSelector","start":4628,"end":4630},{"type":"TextQuoteSelector","exact":"4.","prefix":"______________________________  ","suffix":" _______________________________"}]}]}
+>```
+>%%
+>*%%PREFIX%%______________________________%%HIGHLIGHT%% ==4.== %%POSTFIX%%_______________________________*
+>%%LINK%%[[#^gv7ongerwz|show annotation]]
+>%%COMMENT%%
+>aligns with social progress
+>%%TAGS%%
+>
+^gv7ongerwz
+
+
+>%%
+>```annotation-json
+>{"created":"2026-03-16T14:13:37.958Z","text":"permits us to claim god is morally good (in that they have done the best thing available)","updated":"2026-03-16T14:13:37.958Z","document":{"title":"PHIL1001 W04c - Utilitarianism (Lecture Printout)2","link":[{"href":"urn:x-pdf:f5556e7c5c15b2f7853b97b7f3aa9498"},{"href":"vault:/University/PHIL1001/Course%20work/Worksheets/W04a%20-%20Utilitarianism.pdf"}],"documentFingerprint":"f5556e7c5c15b2f7853b97b7f3aa9498"},"uri":"vault:/University/PHIL1001/Course%20work/Worksheets/W04a%20-%20Utilitarianism.pdf","target":[{"source":"vault:/University/PHIL1001/Course%20work/Worksheets/W04a%20-%20Utilitarianism.pdf","selector":[{"type":"TextPositionSelector","start":4717,"end":4719},{"type":"TextQuoteSelector","exact":"5.","prefix":"______________________________  ","suffix":" _______________________________"}]}]}
+>```
+>%%
+>*%%PREFIX%%______________________________%%HIGHLIGHT%% ==5.== %%POSTFIX%%_______________________________*
+>%%LINK%%[[#^4sh3ng2cosx|show annotation]]
+>%%COMMENT%%
+>permits us to claim god is morally good (in that they have done the best thing available)
+>%%TAGS%%
+>
+^4sh3ng2cosx
+
+
+>%%
+>```annotation-json
+>{"created":"2026-03-16T14:14:09.482Z","text":"but allows for moral obligations in a godless world","updated":"2026-03-16T14:14:09.482Z","document":{"title":"PHIL1001 W04c - Utilitarianism (Lecture Printout)2","link":[{"href":"urn:x-pdf:f5556e7c5c15b2f7853b97b7f3aa9498"},{"href":"vault:/University/PHIL1001/Course%20work/Worksheets/W04a%20-%20Utilitarianism.pdf"}],"documentFingerprint":"f5556e7c5c15b2f7853b97b7f3aa9498"},"uri":"vault:/University/PHIL1001/Course%20work/Worksheets/W04a%20-%20Utilitarianism.pdf","target":[{"source":"vault:/University/PHIL1001/Course%20work/Worksheets/W04a%20-%20Utilitarianism.pdf","selector":[{"type":"TextPositionSelector","start":4806,"end":4808},{"type":"TextQuoteSelector","exact":"6.","prefix":"______________________________  ","suffix":" _______________________________"}]}]}
+>```
+>%%
+>*%%PREFIX%%______________________________%%HIGHLIGHT%% ==6.== %%POSTFIX%%_______________________________*
+>%%LINK%%[[#^g3b9qsswb7p|show annotation]]
+>%%COMMENT%%
+>but allows for moral obligations in a godless world
+>%%TAGS%%
+>
+^g3b9qsswb7p
