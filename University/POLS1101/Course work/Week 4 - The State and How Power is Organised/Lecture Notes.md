@@ -13,7 +13,31 @@
 	- functionalist: state is a performer of social functions
 	- mediator: state is a referee between social groups
 - modern state based on 2 conceptions
-	- westphalian sovereignty
-		- peace of westphalia 1648
+	- Westphalian sovereignty
+		- peace of Westphalia 1648
 		- physical territory is a patchwork of territories and borders
-		- states have complete authority to govern 
+		- states have complete authority to govern without external interference within such borders
+	- weberlan Bureaucracy
+		- Hierarchical, professional, rule-based, Impersonal, meritocratic body of public servants
+		- operate outside the sphere of politics (as far as possible)
+		- constitutes institutions of the state
+- mandala state
+	- a state defined by it's core rather than it's border, which is undefined and fluid
+	- could overlap with other states
+	- power radiates outward, strongest at the centre
+	- common in medieval Southeast Asia
+- zomia
+	- region of the world that resisted "state-ness" despite existing within a state
+	- highland south and Southeast Asia
+	- active historical attempt to resist influence of lowland states
+	- people in these areas are citizens of states but also actively resist the implications of that.
+- Religious states
+	- boundaries are considered divine, not the product of historical processes
+	- state is then ultimately bound to commitment to scripture
+	- religious states have homogenous religious practices
+- so there are many different states
+- must conflict occurs due to Westphalian systems being grafted onto systems that did not match it's derivation of the system
+	- for most of the world the system was largely alien
+	- most modern states emerged thus from colonial experiences
+	- 
+- however the system reminds dominant in analysis
