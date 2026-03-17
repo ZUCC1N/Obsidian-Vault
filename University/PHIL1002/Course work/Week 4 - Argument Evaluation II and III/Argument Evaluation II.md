@@ -1,0 +1,1 @@
+- a good argument must have support but also be rationally acceptable
