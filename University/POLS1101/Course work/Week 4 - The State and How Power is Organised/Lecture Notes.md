@@ -3,4 +3,17 @@
 	- includes judiciary, borders etc
 - not the same as a nation
 	- nations can spread across borders, or some nations have no state
-- 
+- a state is a political association that exercises sovereignty over a particular population in a particular territory
+- states are impersonal, persist between individual governments
+- most of history has not had states
+- many theories
+	- social contract: state prevents violent chaos in return for the sacrifice of some freedom
+	- Marxists: state is a form of domination designed to protect elite interests'
+	- weber: state is that which has monopoly on legitimate use of violence
+	- functionalist: state is a performer of social functions
+	- mediator: state is a referee between social groups
+- modern state based on 2 conceptions
+	- westphalian sovereignty
+		- peace of westphalia 1648
+		- physical territory is a patchwork of territories and borders
+		- states have complete authority to govern 
