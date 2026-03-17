@@ -57,7 +57,31 @@
 		- to win wars needed more infrastructure, which required more taxes, which needs more people and territory
 		- criticized for being Eurocentric, but has some supporting evidence in China, Africa, India and Latin America
 		- 20th century states have proliferated without war
-	- economic transofmraiton
-		- urbanisation and trade growth lead to an emergance of a new class (the bougeoisie)
-		- the class was disadvanted due to feudal tyranny so had no poltiical rights
-		- 
+	- economic transformation
+		- urbanization and trade growth lead to an emergence of a new class (the bourgeoisie)
+		- the class was disadvantaged due to feudal tyranny so had no political rights
+		- crisis of European feudalism such as the Black Death led to reluctant alliances between, bourgeoisie, aristocrats and monarch
+		- expanded infrastructure to protect their economic interests
+	- coerced emulation
+		- political communities see success from neighbors and mimic their patterns of social organizations
+			- i.e. Chinese imperial tradition shaping states in Japan, Korea and the Xiongnu people
+		- alternatively colonial powers impose European states on colonies replacing their existing models
+		- post-colonial powers replicate Westphalian states through the inherited borders and institutions
+		- concerns about tensions between colonial institutions and pre-colonial organization of power
+		- competing ethnic groups
+- why do we let them real?
+	- Associated with divinity
+		- south-east Asian and Indian devaraja and chakravartin systems
+		- Chinese Huangdi and mandate of heaven
+		- Islamic caliph
+		- Christian divine right of kings
+	- social contract theory
+		- Hobbes: already mentioned
+		- Locke: state of nature is only chaotic and violent when it is over property, therefore the state should protect private property
+		- Rousseau: current social contract protects property but allows for corrupting effect of property so thus we need a social contract for all, not just 
+	- violence
+		- some evidence suggest that people did not agree to join states willingly
+		- particularly true for colonialism
+		- states exercise unique control over large scale violence and institution of surveillance
+		- consequence of resisting the state are heavy (imprisonment, torture, unemployment, death)
+		- violence is a key tool for compliance
