@@ -39,5 +39,25 @@
 - must conflict occurs due to Westphalian systems being grafted onto systems that did not match it's derivation of the system
 	- for most of the world the system was largely alien
 	- most modern states emerged thus from colonial experiences
-	- 
+	- argument Europeans would only allow states sovereignty similar to them with European schooling
 - however the system reminds dominant in analysis
+## How do States form?
+- Early state theories
+	- Wittfogel: need for large irrigations projects required large scale management, which created bureaucracy which created a state
+	- Childe: intensification of agriculture lead to surplus which promoted division of labor and other tasks invented
+	- Scott: states emerged where grain was taxable
+	- Engels: agricultural surplus created concepts of private property, this property needed defending, leading to states forming from such conflict
+	- conflict explanations
+		- development of bronze allowed easier war and expansion
+		- creation of a military class of people
+		- inclusion of conquered people required military management and bureaucracy
+- Modern states
+	- conflict explanations
+		- military innovation made war increasingly expensive
+		- to win wars needed more infrastructure, which required more taxes, which needs more people and territory
+		- criticized for being Eurocentric, but has some supporting evidence in China, Africa, India and Latin America
+		- 20th century states have proliferated without war
+	- economic transofmraiton
+		- urbanisation and trade growth lead to an emergance of a new class (the bougeoisie)
+		- the class was disadvanted due to feudal tyranny so had no poltiical rights
+		- 
