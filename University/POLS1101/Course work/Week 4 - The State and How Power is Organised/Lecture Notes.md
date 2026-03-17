@@ -85,3 +85,9 @@
 		- states exercise unique control over large scale violence and institution of surveillance
 		- consequence of resisting the state are heavy (imprisonment, torture, unemployment, death)
 		- violence is a key tool for compliance
+## Does the state work
+- states have poor outocmes on many metrics compared to pre-state societies
+- state declare complete and even power within their borders
+	- but do they really?
+- Only since Westphalia does idea of even internal state control dominate
+- if Westphalia true we would never see wars.
