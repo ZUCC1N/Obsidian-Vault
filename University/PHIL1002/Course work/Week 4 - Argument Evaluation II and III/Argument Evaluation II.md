@@ -1,1 +1,3 @@
 - a good argument must have support but also be rationally acceptable
+- largely you can rely on things commonly known to be accepted rationally acceptable premises (the earth is flat would be reasonable at one point, but no longer)
+- but "feigning ignorance" is not an acceptable reason just to say something is not rationally acceptable.
