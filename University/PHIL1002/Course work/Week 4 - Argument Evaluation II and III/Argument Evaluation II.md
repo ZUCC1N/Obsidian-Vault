@@ -3,3 +3,4 @@
 - but "feigning ignorance" is not an acceptable reason just to say something is not rationally acceptable.
 - Provisional premises are premises you accept as being rational as you have no clear grounds to thinking it unacceptable
 - an important reason a premise can be unacceptable: it is no more certain than the conclusion it seeks to argue for.
+- You also cannot argue a premise is rationally acceptable if you are the only one with the required knowledge, your argument should rely on something your fellow person knows
