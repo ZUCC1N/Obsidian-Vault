@@ -1,5 +1,17 @@
 - Pussy hate debate
 	- a symbol of women's solidarity, or trans exclusionary?
 - Is gender based on biology, or is it social?
-- sex / gender distinction
-	- "Gender, as "
+- Sex / gender distinction
+	- *"Gender, as distinct from sex, is whatever there is to being male or female that cannot be attributed to innate bodily differences. Sex, we are told, is biologically given; gender is socially constructed.*” (Lloyd 1991, 160)
+- sex/gender distinction follows from Cartesianism (i think, therefore i am), forming a binary between male and female (body and mind)
+- Essentialism
+	- *"the attribution of a fixed essence to women. Women’s essence is assumed to be given and universal and is usually … identified with women’s biology and “natural” characteristics.”* (Grosz 1994, 84)
+- essentialism lead to gynocentrism
+- but most feminists seek to reject essentialism
+	- it is generalizing
+	- naively reproduces stereotypes
+	- the category is itself constructed
+- but some movements such as spiritualist or neopagan goddess movements still adopt such views
+- social constructionism is a theory that posits knowledge is socially produced through language and behavior
+- forward by Beauvoir
+- 
