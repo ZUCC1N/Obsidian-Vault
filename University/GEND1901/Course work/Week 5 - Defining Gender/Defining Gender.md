@@ -1,0 +1,5 @@
+- Pussy hate debate
+	- a symbol of women's solidarity, or trans exclusionary?
+- Is gender based on biology, or is it social?
+- sex / gender distinction
+	- "Gender, as "
