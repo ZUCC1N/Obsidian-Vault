@@ -21,6 +21,14 @@
 - Strategic essentialism
 	- essentialism is false, but we act as it is true in places where it furthers political engagements.
 - Transgender theory began essentialist about "being in the wrong body" but recognized this as regressive moving towards a more constructionist approach
-- Stoller theorized gender as a combination of biological influences and social or environmental influences.
+- Stroller theorized gender as a combination of biological influences and social or environmental influences.
 - Positions such as TERFs contradictory views represent unfinished business for gender studies
-	- TERFs argue that gender is constructed by society, but refuse to accept sex 
+	- TERFs argue that gender is constructed by society, but refuse to accept sex and gender have a socially constructed connection, not an essentialist one
+	- Trans Activists argue that gender and sex are socially constructed to be a binary, but refuse to move from the position that a person's internalized gender is concrete and therefore essential
+	- therefore both have some aspects of essentialism backed into them despite being directly opposed.
+- Need more progressive frameworks.
+	- Fausto-Sterling argue biology and social nature are separated by connected invariably by social norms
+	- instead nature *vs* nurture, we should ask how nature *and* nurture affect us in a connected sense.
+	- Irigaray's essentialism
+		- political essentialism: feminism should seek to use femininity and body to challenge patrical logic
+		- realist essentialism: the body predates physioglcial 
