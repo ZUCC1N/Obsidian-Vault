@@ -30,5 +30,5 @@
 	- Fausto-Sterling argue biology and social nature are separated by connected invariably by social norms
 	- instead nature *vs* nurture, we should ask how nature *and* nurture affect us in a connected sense.
 	- Irigaray's essentialism
-		- political essentialism: feminism should seek to use femininity and body to challenge patrical logic
-		- realist essentialism: the body predates physioglcial 
+		- political essentialism: feminism should seek to use femininity and body to challenge patriarchal logic
+		- realist essentialism: the body predates physiological sexual differences between the male and female
