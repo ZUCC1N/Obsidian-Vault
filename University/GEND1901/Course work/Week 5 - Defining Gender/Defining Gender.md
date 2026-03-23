@@ -14,4 +14,13 @@
 - but some movements such as spiritualist or neopagan goddess movements still adopt such views
 - social constructionism is a theory that posits knowledge is socially produced through language and behavior
 - forward by Beauvoir
-- 
+- further advanced by Judith Butlers idea that gender is performative, involving repeated enactment that over time consolidated identity
+- gender produces the sexed body
+	- nature is always mediated through language so we never access ""true"" nature
+	- gender and sex are socially constructed so the sex and gender distinction is troubled.
+- Strategic essentialism
+	- essentialism is false, but we act as it is true in places where it furthers political engagements.
+- Transgender theory began essentialist about "being in the wrong body" but recognized this as regressive moving towards a more constructionist approach
+- Stoller theorized gender as a combination of biological influences and social or environmental influences.
+- Positions such as TERFs contradictory views represent unfinished business for gender studies
+	- TERFs argue that gender is constructed by society, but refuse to accept sex 
