@@ -1,0 +1,3 @@
+- conditionals can be tricky
+- transposition
+	- if A then B, is deductively valid then if not A then not B is also deductively valid
