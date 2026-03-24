@@ -49,4 +49,36 @@
 		- majority real allowing anti-majority laws
 		- sidelining of minority views
 		- repeated minority status by practice
-	- 
+- deliberative democracy
+	- maximalist view
+	- suggests that to be truly democratic, we must consider every side
+	- best to be done through deliberation
+	- is not just voting, but should have deep deliberation built into the procedure
+- democratization
+	- modern democracies emerged in waves
+		- first wave in 1918, after WW1
+		- second after decolonization
+		- third after the Soviet Union
+	- each wave is followed by a period of democratic retreat
+			- WE ARE AGREED TO CURRENTLY BE IN ONE
+### Authoritarianism
+- not just no democracy
+- form of government characterized by strong central arbitrary control
+	- limited political freedom
+	- strict obedience
+	- strong focus on law and order
+	- if ruler's authority is paramount, will of the people is irrelevant
+	- rights can be overridden if the ruler decides otherwise
+	- decisions can be made arbitrary, clearly and efficiently at the cost of people
+- Monarchy
+	- inherited bloodline by decree
+	- often associated with divine right
+- Dictatorship
+	- rule by one
+	- many types, military, religious
+	- not necessarily by blood
+	- varying degrees of freedom
+- totalitarianism
+	- state demands complete submission
+	- extreme regulation of public and private life
+	- total control
