@@ -1,0 +1,22 @@
+## How do You Govern?
+- Once you have power what do you do with it?
+- Going to focus on democracy and authoritarianism
+- not states, but just forms of governments
+### Democracy
+- majority of history has NOT BEEN democratic
+- demos + kratos = people + rule
+- refers to process of leadership selection via popular vote
+- many different types, up to 500
+- everyone will say they are democratic (the democratic peoples Republic of Korea)
+- what is democracy really?
+	- inspiration? (democracy is the will of the people)
+		- defining democracy by the thing that animates it
+	- ideal? (democracy produces good society)
+		- defining democracy by what it seeks to achieve eg civil rights, wise leadership social justice
+	- procedural? (democracy is elections)
+		- defining democracy by it's procedural institutions
+- direct democracy
+	- everyone votes directly for themselves
+	- eg anicent athens (citizens only (land owners, men, non-slaves))
+- indirect democracy
+	-p
