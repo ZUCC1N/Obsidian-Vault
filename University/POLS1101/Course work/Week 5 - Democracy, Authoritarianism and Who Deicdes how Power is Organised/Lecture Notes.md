@@ -104,8 +104,9 @@
 	- right win authoritarianism emerges out of desire to preserve order and markets
 	- but can also not track along ideological lines
 	- it is not left or right, but is illiberal.
-- authoritarisnm and instability
-	- authrotiariansim often finds it's place in instability and sometimes manufacturies the conditons for it
+- Authoritarianism and instability
+	- authoritarianism often finds its place in instability and sometimes manufactures the conditions for it
 	- often critique is it to be prevalent in global south
-		- can authoritainism be a reponse to the instability caused by westphalian and and pre colonial state models?
-		- or is it better explained by realist 
+		- can authoritarianism be a response to the instability caused by Westphalian and pre-colonial state models?
+	- Either way is of concern to the entire world.
+- 
