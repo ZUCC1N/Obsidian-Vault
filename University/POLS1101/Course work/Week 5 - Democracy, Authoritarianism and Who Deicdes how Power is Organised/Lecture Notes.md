@@ -82,3 +82,30 @@
 	- state demands complete submission
 	- extreme regulation of public and private life
 	- total control
+- how does it work?
+	- Varying degrees of repression (denial of civil liberty), but often targeted at other groups more than others
+	- willing to do violence
+	- most modern authoritarian states have some sense of democratic institutions
+	- however they are designed to produce undemocratic outcomes
+	- sometimes accompanied by significant public consent and legitimacy
+		- in times of crisis, people look for "strong and decisive leaders"
+		- authoritarianism promises efficiency, decisiveness and strong leadership
+		- authoritarianism sometimes delivers the goods
+- repressive developmentalism
+	- authoritarian states that implement harsh policies to quickly implement economic growth
+	- often associated with anti-communism, but parallels communist and socialist states
+		- Singapore, Indonesia, Taiwan, China
+	- achieves substantial increases in collective material prosperity
+	- at what cost? Limited civil liberties, state violence.
+- Authoritarianism and ideology
+	- is authoritarianism left or right wing?
+		- Can be both
+	- left win authoritarianism often emerges out of communist focus on the state
+	- right win authoritarianism emerges out of desire to preserve order and markets
+	- but can also not track along ideological lines
+	- it is not left or right, but is illiberal.
+- authoritarisnm and instability
+	- authrotiariansim often finds it's place in instability and sometimes manufacturies the conditons for it
+	- often critique is it to be prevalent in global south
+		- can authoritainism be a reponse to the instability caused by westphalian and and pre colonial state models?
+		- or is it better explained by realist 
