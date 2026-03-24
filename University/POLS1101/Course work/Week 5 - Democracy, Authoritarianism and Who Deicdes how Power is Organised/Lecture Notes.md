@@ -8,15 +8,45 @@
 - refers to process of leadership selection via popular vote
 - many different types, up to 500
 - everyone will say they are democratic (the democratic peoples Republic of Korea)
-- what is democracy really?
+- What is democracy really?
 	- inspiration? (democracy is the will of the people)
 		- defining democracy by the thing that animates it
 	- ideal? (democracy produces good society)
 		- defining democracy by what it seeks to achieve eg civil rights, wise leadership social justice
 	- procedural? (democracy is elections)
 		- defining democracy by it's procedural institutions
-- direct democracy
+- Direct democracy
 	- everyone votes directly for themselves
-	- eg anicent athens (citizens only (land owners, men, non-slaves))
-- indirect democracy
-	-p
+	- e.g. ancient Athens (citizens only (landowners, men, non-slaves))
+- Indirect democracy
+	- people vote for representatives to vote for them
+	- should people vote for a rep to act for them, or who they trust to make good judgment?
+- Elections
+	- minimalist approach
+	- elections and many procedures of democracy don't matter if not backed up by measures to ensure they are free and fair
+	- free elections
+		- anyone can run for office
+			- very hard in the modern world (i can run, but will i win?)
+		- freedom of speech ensures alternative views can be considered and deliberated upon
+		- freedom of assembly
+		- civil liberty
+			- freedom of speech
+	- Fair elections
+		- secret ballot
+		- universal suffrage
+			- do kids count?
+		- Fair access to voting
+			- voting must be accessible. Problems of uneven spread of polling booths or elections on working days
+		- fair electoral procedures
+			- gerrymandering
+		- accountability
+			- officials must be removed and held accountable
+- liberal democracy
+	- electoral democracies simply have elections
+	- liberal democracies institute values and practices to ensure elections mean something
+	- liberal-ness is in reference to protections against autocracy
+	- liberal democracy is an ideal, but in practice some aspects of it compromise democratic integrity
+		- majority real allowing anti-majority laws
+		- sidelining of minority views
+		- repeated minority status by practice
+	- 
