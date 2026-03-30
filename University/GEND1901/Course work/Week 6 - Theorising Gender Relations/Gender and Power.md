@@ -1,0 +1,20 @@
+- gender studies is concerned centrally with power
+- power is a structured relationship, process and power
+- structured relationship: patriarchy
+	- literally means "rule of the father"
+	- used as expression of systematic power of men
+	- grounded in values and behaviors of aggression and competition
+	- describes a pathologized and suboptimal social order in which pro-social values like cooperation, sharing and empathy are suppressed (toxic masculinity)
+	- limited by
+		- being too reductive
+		- limited intersectionality, men are also subordinated
+		- adversarial
+		- fallen out of favor academically despite rallying power still lingering
+![[Pasted image 20260330092524.png]]
+- you will need this later since it's literally your topic
+	- subordinate: gay
+	- marginalized: black
+	- complicit: Barnaby Joyce fat fuck but reaps rewards of masculinity
+	- protest: proud boys
+- power as process
+	- 
