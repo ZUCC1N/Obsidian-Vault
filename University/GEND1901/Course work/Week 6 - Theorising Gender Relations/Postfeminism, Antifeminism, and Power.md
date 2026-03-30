@@ -12,5 +12,7 @@
 		- MRAs
 			- very appealing as men DO face some prejudices
 			- but why blame feminism?
-				- with absence of popular social and intersectional explanations, patriarchy and feminism was scapegoated for men's lo.
+				- with absence of popular social and intersectional explanations, patriarchy and feminism was scapegoated for men's losses.
+				- rightfully finds weaknesses in the concept of patriarchy
+				- embraces power by leaning in to negative portrayals of male "power"
 		- masculinism
