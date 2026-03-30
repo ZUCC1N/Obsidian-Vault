@@ -1,0 +1,16 @@
+- Power as a resource
+	- views power as a positive social good
+	- associated with liberal feminism
+	- but the difficulty of acknowledging this social good means power as a resource is not static
+	- languages of empowerment is often associated with postfeminism and emphasis on individual choice
+	- often denigrated for being too individualistic
+	- such criticism labels it as "neoliberal"
+	- opposed to antifeminism as a needed antithesis
+	- every wave has been met with backlash
+	- not only men but also expressed by women (tradwaves)
+	- flourishes in the manosphere along 2 veins
+		- MRAs
+			- very appealing as men DO face some prejudices
+			- but why blame feminism?
+				- with absence of popular social and intersectional explanations, patriarchy and feminism was scapegoated for men's lo.
+		- masculinism
