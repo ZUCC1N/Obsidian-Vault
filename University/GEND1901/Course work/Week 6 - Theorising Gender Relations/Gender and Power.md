@@ -17,4 +17,13 @@
 	- complicit: Barnaby Joyce fat fuck but reaps rewards of masculinity
 	- protest: proud boys
 - power as process
-	- 
+	- think of cultural hegemony, achieved through processes of consent rather than coercion
+	- sometimes labelled "hegemonic negotiation"
+	- applied to gender, Connell expressed hegemonic expression of masculinity must be conditionally reaffirmed via negotiation
+	- hegemonic masculinity used over patriarchy due to being more
+		- intersectional
+		- not tied to biological differences
+	- Foucault combined process and relationship
+		- the panopticon of masculinity (docile bodies)
+		- argued against the structures of dominations, instead power is productive.
+		- focuses on how we self subject ourselves via self-discipline and self-surveillance and such recognition allows us to resist that.
