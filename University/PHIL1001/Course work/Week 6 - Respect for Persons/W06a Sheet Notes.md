@@ -139,3 +139,17 @@ annotation-target:: University/PHIL1001/Course work/Worksheets/W06a - Respect fo
 >%%TAGS%%
 >
 ^k6hggjl23pm
+
+
+>%%
+>```annotation-json
+>{"created":"2026-04-07T10:19:32.538Z","text":"explains the immorality of certain cases such as the trolly problem and why they feel wrong despite the material ends being the case","updated":"2026-04-07T10:19:32.538Z","document":{"title":"Microsoft Word - PHIL1001 LECTURE PRINTOUT W06 - Respect for Persons.docx","link":[{"href":"urn:x-pdf:4f721c988431b7195b5af1c3c5f86dbb"},{"href":"vault:/University/PHIL1001/Course%20work/Worksheets/W06a%20-%20Respect%20for%20Persons.pdf"}],"documentFingerprint":"4f721c988431b7195b5af1c3c5f86dbb"},"uri":"vault:/University/PHIL1001/Course%20work/Worksheets/W06a%20-%20Respect%20for%20Persons.pdf","target":[{"source":"vault:/University/PHIL1001/Course%20work/Worksheets/W06a%20-%20Respect%20for%20Persons.pdf","selector":[{"type":"TextPositionSelector","start":4445,"end":4475},{"type":"TextQuoteSelector","exact":"How Might DDE be related to FH","prefix":"ieve the intended good result.  ","suffix":"? ______________________________"}]}]}
+>```
+>%%
+>*%%PREFIX%%ieve the intended good result.%%HIGHLIGHT%% ==How Might DDE be related to FH== %%POSTFIX%%? ______________________________*
+>%%LINK%%[[#^yle0fmehvo|show annotation]]
+>%%COMMENT%%
+>explains the immorality of certain cases such as the trolly problem and why they feel wrong despite the material ends being the case
+>%%TAGS%%
+>
+^yle0fmehvo
