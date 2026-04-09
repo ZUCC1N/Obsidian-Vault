@@ -153,3 +153,49 @@ annotation-target:: University/PHIL1001/Course work/Worksheets/W06a - Respect fo
 >%%TAGS%%
 >
 ^yle0fmehvo
+
+
+>%%
+>```annotation-json
+>{"created":"2026-04-07T10:27:43.366Z","text":"a bomber does not wish to kill people, but only to make people *seem* dead long enough to facilitate the end of a war","updated":"2026-04-07T10:27:43.366Z","document":{"title":"Microsoft Word - PHIL1001 LECTURE PRINTOUT W06 - Respect for Persons.docx","link":[{"href":"urn:x-pdf:4f721c988431b7195b5af1c3c5f86dbb"},{"href":"vault:/University/PHIL1001/Course%20work/Worksheets/W06a%20-%20Respect%20for%20Persons.pdf"}],"documentFingerprint":"4f721c988431b7195b5af1c3c5f86dbb"},"uri":"vault:/University/PHIL1001/Course%20work/Worksheets/W06a%20-%20Respect%20for%20Persons.pdf","target":[{"source":"vault:/University/PHIL1001/Course%20work/Worksheets/W06a%20-%20Respect%20for%20Persons.pdf","selector":[{"type":"TextPositionSelector","start":4842,"end":4858},{"type":"TextQuoteSelector","exact":"Rationale for P1","prefix":" not the case that DDE is true. ","suffix":"? ______________________________"}]}]}
+>```
+>%%
+>*%%PREFIX%%not the case that DDE is true.%%HIGHLIGHT%% ==Rationale for P1== %%POSTFIX%%? ______________________________*
+>%%LINK%%[[#^99iqdr0kndt|show annotation]]
+>%%COMMENT%%
+>a bomber does not wish to kill people, but only to make people *seem* dead long enough to facilitate the end of a war
+>%%TAGS%%
+>
+^99iqdr0kndt
+
+
+>%%
+>```annotation-json
+>{"created":"2026-04-07T10:28:16.837Z","text":"is such a description really adequate for the causal chain of events leading to the end of a war? (isn't being dead the cause of looking dead?)","updated":"2026-04-07T10:28:16.837Z","document":{"title":"Microsoft Word - PHIL1001 LECTURE PRINTOUT W06 - Respect for Persons.docx","link":[{"href":"urn:x-pdf:4f721c988431b7195b5af1c3c5f86dbb"},{"href":"vault:/University/PHIL1001/Course%20work/Worksheets/W06a%20-%20Respect%20for%20Persons.pdf"}],"documentFingerprint":"4f721c988431b7195b5af1c3c5f86dbb"},"uri":"vault:/University/PHIL1001/Course%20work/Worksheets/W06a%20-%20Respect%20for%20Persons.pdf","target":[{"source":"vault:/University/PHIL1001/Course%20work/Worksheets/W06a%20-%20Respect%20for%20Persons.pdf","selector":[{"type":"TextPositionSelector","start":5010,"end":5025},{"type":"TextQuoteSelector","exact":"Objection to P1","prefix":"______________________________  ","suffix":"? ______________________________"}]}]}
+>```
+>%%
+>*%%PREFIX%%______________________________%%HIGHLIGHT%% ==Objection to P1== %%POSTFIX%%? ______________________________*
+>%%LINK%%[[#^wlemw2ntx9s|show annotation]]
+>%%COMMENT%%
+>is such a description really adequate for the causal chain of events leading to the end of a war? (isn't being dead the cause of looking dead?)
+>%%TAGS%%
+>
+^wlemw2ntx9s
+
+
+>%%
+>```annotation-json
+>{"created":"2026-04-07T10:29:48.472Z","text":"Mary was a carrier of Typhus so she should be quarantined\n\nshe was involuntarily quarantined so this would make FH say this is wrong.\n\nthe act of quarantine her was not wrong iregardless of consent.","updated":"2026-04-07T10:29:48.472Z","document":{"title":"Microsoft Word - PHIL1001 LECTURE PRINTOUT W06 - Respect for Persons.docx","link":[{"href":"urn:x-pdf:4f721c988431b7195b5af1c3c5f86dbb"},{"href":"vault:/University/PHIL1001/Course%20work/Worksheets/W06a%20-%20Respect%20for%20Persons.pdf"}],"documentFingerprint":"4f721c988431b7195b5af1c3c5f86dbb"},"uri":"vault:/University/PHIL1001/Course%20work/Worksheets/W06a%20-%20Respect%20for%20Persons.pdf","target":[{"source":"vault:/University/PHIL1001/Course%20work/Worksheets/W06a%20-%20Respect%20for%20Persons.pdf","selector":[{"type":"TextPositionSelector","start":5530,"end":5558},{"type":"TextQuoteSelector","exact":"Rationales for the premises?","prefix":"s not the case that FH is true. ","suffix":" _______________________________"}]}]}
+>```
+>%%
+>*%%PREFIX%%s not the case that FH is true.%%HIGHLIGHT%% ==Rationales for the premises?== %%POSTFIX%%_______________________________*
+>%%LINK%%[[#^hk3np4dac5|show annotation]]
+>%%COMMENT%%
+>Mary was a carrier of Typhus so she should be quarantined
+>
+>she was involuntarily quarantined so this would make FH say this is wrong.
+>
+>the act of quarantine her was not wrong iregardless of consent.
+>%%TAGS%%
+>
+^hk3np4dac5
