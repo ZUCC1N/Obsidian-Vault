@@ -9,4 +9,5 @@
 - sex positive feminism foregrounded sexual agency
 - celebrated non-normative sex as challenging status quo and sex work as more honest than traditional marriage contracts
 - claimed to include the voices and perspectives of street sex workers (while they did not)
-- with the come of 3rd wave feminism, sex negative feminism was reductively atrtirvutred to 2nd wave feminism
+- with the come of 3rd wave feminism, sex negative feminism was reductively attributed to 2nd wave feminism
+- BUT with post-feminism, many theorists criticized sex-positive feminism as being born from neoliberalism so not being in the way counter-cultural anymore
