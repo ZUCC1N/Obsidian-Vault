@@ -1,0 +1,12 @@
+- While some people celebrated sexual liberation, others such as Dworkin expressed this liberation as being couched in patriarchal gaze
+- positions sex as "danger"
+- some pushed back on these ascriptions for being
+	- essentialist
+	- simplification of relationship between fantasy and reality
+	- moralistic and conservative leaning
+	- disrespect for sex workers
+	- failing to appreciate the politics of "power play"
+- sex positive feminism foregrounded sexual agency
+- celebrated non-normative sex as challenging status quo and sex work as more honest than traditional marriage contracts
+- claimed to include the voices and perspectives of street sex workers (while they did not)
+- with the come of 3rd wave feminism, sex negative feminism was reductively atrtirvutred to 2nd wave feminism
