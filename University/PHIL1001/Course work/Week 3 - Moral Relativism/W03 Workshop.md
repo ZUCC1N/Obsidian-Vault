@@ -1,4 +1,4 @@
-annotation-target:: University/PHIL1001/Workshops/W03 - Relativism (Shafer-Landau (2004).pdf
+annotation-target:: University/PHIL1001/Workshops/W03 - Relativism.pdf
 
 >%%
 >```annotation-json
