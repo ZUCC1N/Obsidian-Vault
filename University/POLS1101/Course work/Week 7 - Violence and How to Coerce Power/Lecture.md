@@ -16,10 +16,30 @@ VIOLENCE IS A KEY COMPONENT OF MAINTAINING POLITICAL POWER
 	- never occurs in a vacuum
 	- often occurs during conflict
 	- needs to be distinguished from the causes of conflict and causes of political violence
-	- violence can often produced more violence (becomes a process)
+	- violence can often produce more violence (becomes a process)
 - violence can be learnt by varying theories
-	- diagonstic view
-		- vioelnce is a symptom of something wrong and should be fixed
+	- diagnostic view
+		- violence is a symptom of something wrong and should be fixed
 	- pathological view
 		- violence is a disease
-	- social pathologi
+	- social pathological view
+		- violence arises from social structures (capitalism)
+- but do these methods suggest violence just happens or is inevitable?
+- violence is often studied in the aftermath
+	- can be embellished by people's personal stories
+	- but stats also don't tell the whole story
+- the modern information age could or cannot aid in dispelling this (allows instant display of violence but also puts a barrier up against such violence which we view it through)
+## Who uses Violence?
+- most people
+- used by elites and non-elites, subordinate and dominant communities
+- used by states
+- used by those without the means to contest in other ways
+	- occupied nations, anti-colonial revolution
+- is used on people that know each other
+- also used on people who don't know each other
+	- recruit people outside of communities to subjugate neighbors
+- violence usually perpetrated by men
+- political violence often perpetrated against women (rape, forced pregnancy, physical mutilation)
+- but women can also assist in perpetuating violence
+	- MTG BEING MTG
+	- POSEY PAKER
