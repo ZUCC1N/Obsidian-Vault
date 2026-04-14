@@ -43,3 +43,15 @@ VIOLENCE IS A KEY COMPONENT OF MAINTAINING POLITICAL POWER
 - but women can also assist in perpetuating violence
 	- MTG BEING MTG
 	- POSEY PAKER
+- the poor, ethnic minorities, queer people and women are more likely to experience political violence when it makes them a target
+- identifies are compound
+- victims and perpetrator is reductive to embedded networks of complicity
+- focus on senseless violence when reasoned violence is still violence
+- greed vs grievance
+	- greed: people act to do what is best for them
+	- grievance: people act based on perceived hurt
+## Violence that Preserves Order
+- often the reason the state gives
+- but where is the line between law and order and political violence?
+- Cultural violence
+	- production of cultural practices and norms that make violence feel right
