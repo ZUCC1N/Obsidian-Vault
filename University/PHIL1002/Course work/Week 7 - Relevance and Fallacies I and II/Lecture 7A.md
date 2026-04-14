@@ -5,4 +5,15 @@
 	- negative relevance
 		- the truth of A counts against B being true
 	- irrelevance
-		- the truth of A counts neither in favour nor against the claim that B is true
+		- the truth of A counts neither in favor nor against the claim that B is true
+- fallacy of relevance
+	- mistaking an argument offer relevance to one or more premises to the conclusion
+	- can also manifest in giving the appearance of a much greater relevance than a premise actually offers.
+	- Can also involve an otherwise cogent argument omitting relevant information that makes one or more premises unacceptable.
+	- False dichotomy
+		- when a premise asserts a pair of options is exhaustive when there is in fact other options
+		- tricky due to contradictory statements, that DO offer an exhaustive list of options due to having opposite truth values
+		- contrary statements seem like contradictory statements due to having opposite truth values, but still do not cover every option
+		- false dichotomies arise when we treat contrary statements as contradictory statement
+		- CAN ALSO ARISE WHEN THE DICHOTOMY IS JUST NOT A DICHOTOMY (both can be true or false)
+	- Straw man
