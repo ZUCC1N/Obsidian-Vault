@@ -16,4 +16,7 @@
 		- contrary statements seem like contradictory statements due to having opposite truth values, but still do not cover every option
 		- false dichotomies arise when we treat contrary statements as contradictory statement
 		- CAN ALSO ARISE WHEN THE DICHOTOMY IS JUST NOT A DICHOTOMY (both can be true or false)
+		- false dichotomies rhetorically appear when there is a suppressed premise that is usually the false dichotomy
 	- Straw man
+		- committed when a person misrepresents an argument, theory, or claim, refutes that and then claims to have refuted the misrepresented position
+		- typically involves exaggerating a person's viewpoint while removing nuance
