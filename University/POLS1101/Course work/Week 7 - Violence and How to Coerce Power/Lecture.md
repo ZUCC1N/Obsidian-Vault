@@ -1,0 +1,25 @@
+VIOLENCE IS A KEY COMPONENT OF MAINTAINING POLITICAL POWER
+## What is Violence?
+- is violence by its means or it's outcomes?
+- for our purposes we discuss violence as fundamentally about outcomes (harms)
+- violence can be subjective and on varying scales of harm.
+- Traditional views limit violence to physical harm
+	- what about torture? Many types are psychological
+	- what about government policies that suppress cultural practices?
+- minimalist (physical) vs maximalist (comprehensive understanding)
+- WHO includes intentional creation of psychological distress
+	- but does it need to be intentional?
+	- what about civilian casualties in war?
+- primarily focus on political violence
+	- intentional violence to achieve political goal
+		- to maintain or disrupt social ordering of power
+	- never occurs in a vacuum
+	- often occurs during conflict
+	- needs to be distinguished from the causes of conflict and causes of political violence
+	- violence can often produced more violence (becomes a process)
+- violence can be learnt by varying theories
+	- diagonstic view
+		- vioelnce is a symptom of something wrong and should be fixed
+	- pathological view
+		- violence is a disease
+	- social pathologi
