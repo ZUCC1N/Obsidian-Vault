@@ -1,0 +1,8 @@
+- 3 types of relevance
+	- positive relevance
+		- the truth of A counts in favor of B being true
+		- is in degrees (support)
+	- negative relevance
+		- the truth of A counts against B being true
+	- irrelevance
+		- the truth of A counts neither in favour nor against the claim that B is true
