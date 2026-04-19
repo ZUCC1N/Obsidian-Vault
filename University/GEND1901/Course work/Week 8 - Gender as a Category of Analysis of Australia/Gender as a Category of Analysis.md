@@ -13,4 +13,8 @@
 		- being exceptional (Joan of arc)
 		- biography
 		- social histories (Engels in *The origin of the family, private property and the State*)
-	- in order to rewrite history, we need to focus more on gender, but a
+	- in order to rewrite history, we need to focus more on gender, but at the same time greater understanding of gender will inherently alter our perception of history
+	- would also make masculinity exposed to how it assumes to be the default or normative such as
+		- the default third person of humanity always the masculine man
+		- men assumed the default in medical textbooks
+		- 19th century politics restricted to only men
