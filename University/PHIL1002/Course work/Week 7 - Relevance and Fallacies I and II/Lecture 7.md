@@ -26,3 +26,14 @@
 		- can also manifest as assuming that past events should simply justify their continuance of those principles (ie gender roles)
 	- Ad Hominem
 		- when a person's character, appearance, intelligence, behavior or motives is attacked instead of against the argument put forward
+		- includes the tu quoque (you too) that such criticism also applies to you so you have no right to complain
+		- tricky, as sometimes an ad hominem is valid when
+			- the criticism of character is relevant
+			- when we are being asked to assess their claim on the basis of character, and we need to establish credibility.
+			- to show when a group of beliefs are logically inconsistent, so one must be abandoned
+	- appeal to ignorance
+		- when you assert a claim to be true or false on the pretense we do not know that the claim is the logical opposite of the asserted truth value.
+		- but sometimes it is not a fallacy! if you are looking for a car on an oval but don't see your car then you can mostly assume your car is not there (as it would be obvious if it was)
+		- is not fallacious "If a responsible, appropriate, and careful search for some entity, X, has not turned up any evidence of X, then there is reason to believe that X is not there to be found and If X had been present, evidence of X would have been found"
+		- is also not falacious in the case of the burden of proof
+			- in instances where lack of evidence of safety or such, we will assume the position that is "safer" and place burden of proof to find evidence otherwise
