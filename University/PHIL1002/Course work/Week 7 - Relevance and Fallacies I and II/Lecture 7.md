@@ -35,5 +35,6 @@
 		- when you assert a claim to be true or false on the pretense we do not know that the claim is the logical opposite of the asserted truth value.
 		- but sometimes it is not a fallacy! if you are looking for a car on an oval but don't see your car then you can mostly assume your car is not there (as it would be obvious if it was)
 		- is not fallacious "If a responsible, appropriate, and careful search for some entity, X, has not turned up any evidence of X, then there is reason to believe that X is not there to be found and If X had been present, evidence of X would have been found"
-		- is also not falacious in the case of the burden of proof
+		- is also not fallacious in the case of the burden of proof
 			- in instances where lack of evidence of safety or such, we will assume the position that is "safer" and place burden of proof to find evidence otherwise
+			- can manifest as a "weaker" appeal to ignorance, ie instead of saying something is false instead assert it to be not reasonable to believe.
