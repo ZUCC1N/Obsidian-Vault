@@ -18,3 +18,6 @@
 		- the default third person of humanity always the masculine man
 		- men assumed the default in medical textbooks
 		- 19th century politics restricted to only men
+	- DOES give rise to analysis of "toxic" masculinity but is reductive of the dynamic of masculinity
+
+![[Pasted image 20260419202500.png]]
