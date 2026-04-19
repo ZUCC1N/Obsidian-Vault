@@ -1,0 +1,16 @@
+- Feminist History
+	- history has been disproportionately focused on made by men, about men and for men
+	- has focused on
+		- nation-building
+		- statecraft
+		- war
+	- opposed to
+		- reproduction and child rearing
+		- family
+		- community work
+	- thus positioning men as active and women as passive
+	- before women liberation history focused only on women as
+		- being exceptional (Joan of arc)
+		- biography
+		- social histories (Engels in *The origin of the family, private property and the State*)
+	- in order to rewrite history, we need to focus more on gender, but a
