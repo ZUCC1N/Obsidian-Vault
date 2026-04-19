@@ -20,3 +20,9 @@
 	- Straw man
 		- committed when a person misrepresents an argument, theory, or claim, refutes that and then claims to have refuted the misrepresented position
 		- typically involves exaggerating a person's viewpoint while removing nuance
+	- Genetic Fallacy
+		- when a reason of origin for a belief or idea are asserted to also be a reason for or against it being justified or warranted
+		- can also manifest as highlighting related character flaws (different to ad hominem as that only is unrelated things)
+		- can also manifest as assuming that past events should simply justify their continuance of those principles (ie gender roles)
+	- Ad Hominem
+		- when a person's character, appearance, intelligence, behavior or motives is attacked instead of against the argument put forward
