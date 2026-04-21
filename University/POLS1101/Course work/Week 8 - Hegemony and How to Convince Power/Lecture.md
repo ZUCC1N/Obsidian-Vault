@@ -10,3 +10,5 @@
 		- Hegemony is a kind of domination that revolves around producing cultural and ideological ideas that normalize and legitimize the dominator'
 		- people are coerced to consent, leading them to think it to be common sense with no alternative
 		- is both the process and end goal
+	- do we always know when/how/why we are being oppressed?
+		- no, internalization
