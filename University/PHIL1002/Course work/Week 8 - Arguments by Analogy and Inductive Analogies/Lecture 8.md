@@ -24,7 +24,15 @@
 				- P2. Because the analogue subject has features $a$, $b$, and $c$, it is properly judged to be $W$.
 				- P3. The primary subject has features $a$, $b$, and $c$.
 				- C.   The primary subject is properly judged to be $W$.
-		- refutation by logical analogy
+		- Refutation by logical analogy
+			- a subcategory of consistency analogy
+			- seeks to compare arguments and show an argument is weak by producing a similar argument to it that more clearly shows absurdity.
+			- Common structure:
+				- P1. The primary subject is not cogent
+				- P2. The analogue subject is relevantly similar to the Primary Subject by having the same structure
+				- C.   The analogue subject is not cogent
 		- advice on evaluating arguments by analogy
+			- the features are not really what makes it W
+			- 
 		- inductive analogies
 - ways of criticizing analogies
