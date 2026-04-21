@@ -1,0 +1,14 @@
+- Analogies in different contexts
+	- 'dramatic effect
+	- illustrations
+	- explanation
+	- argumentation
+		- the violinist abortion analogy
+- arguments by analogy
+	- we may be faced with 2 cases where 1 has commonly agreed judgements while the other does not
+	- if we can display they are similar in c
+- consistency analogies
+- refutation by logical analogy
+- advice on evaluating arguments by analogy
+- inductive analogies
+- ways of criticizing analogies

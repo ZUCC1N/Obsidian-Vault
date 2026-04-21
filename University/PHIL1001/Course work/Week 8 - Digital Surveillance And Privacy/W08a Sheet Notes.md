@@ -74,3 +74,17 @@ annotation-target:: University/PHIL1001/Course work/Worksheets/W08a - Privacy.pd
 >%%TAGS%%
 >
 ^46ypvr43k4o
+
+
+>%%
+>```annotation-json
+>{"created":"2026-04-21T03:39:31.230Z","text":"are harms sufficiently greater in intensity or number to outweigh the benefits to everyone else's interests?","updated":"2026-04-21T03:39:31.230Z","document":{"title":"PHIL1001 LECTURE PRINTOUT - W08 Privacy","link":[{"href":"urn:x-pdf:1b0185128f32f53a1eb90ba3ec9bf110"},{"href":"vault:/University/PHIL1001/Course%20work/Worksheets/W08a%20-%20Privacy.pdf"}],"documentFingerprint":"1b0185128f32f53a1eb90ba3ec9bf110"},"uri":"vault:/University/PHIL1001/Course%20work/Worksheets/W08a%20-%20Privacy.pdf","target":[{"source":"vault:/University/PHIL1001/Course%20work/Worksheets/W08a%20-%20Privacy.pdf","selector":[{"type":"TextPositionSelector","start":1556,"end":1563},{"type":"TextQuoteSelector","exact":"Worry 2","prefix":"ion (a) in Claim 2:  Worry 1:   ","suffix":":     2 LECTURE B: THE NATURE AN"}]}]}
+>```
+>%%
+>*%%PREFIX%%ion (a) in Claim 2:  Worry 1:%%HIGHLIGHT%% ==Worry 2== %%POSTFIX%%:     2 LECTURE B: THE NATURE AN*
+>%%LINK%%[[#^0r6ju7nyo6m|show annotation]]
+>%%COMMENT%%
+>are harms sufficiently greater in intensity or number to outweigh the benefits to everyone else's interests?
+>%%TAGS%%
+>
+^0r6ju7nyo6m
