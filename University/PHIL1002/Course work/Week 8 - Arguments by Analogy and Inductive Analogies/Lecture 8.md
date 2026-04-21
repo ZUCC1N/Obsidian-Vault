@@ -33,6 +33,6 @@
 				- C.   The analogue subject is not cogent
 		- advice on evaluating arguments by analogy
 			- the features are not really what makes it W
-			- 
+			- while some features are relevant to make the case W, not all are and the irrelevant features are focused on
 		- inductive analogies
 - ways of criticizing analogies
