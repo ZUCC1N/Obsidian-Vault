@@ -5,10 +5,26 @@
 	- argumentation
 		- the violinist abortion analogy
 - arguments by analogy
-	- we may be faced with 2 cases where 1 has commonly agreed judgements while the other does not
-	- if we can display they are similar in c
-- consistency analogies
-- refutation by logical analogy
-- advice on evaluating arguments by analogy
-- inductive analogies
+	- we may be faced with 2 cases where 1 has commonly agreed judgments while the other does not
+	- if we can display they are similar in certain respects, then such judgments can be transferred appropriately to the other
+	- not all arguments by analogy are cogent (false premises, lacks support, not relevantly similar)
+	- common structure
+		- primary subject: the thing you want to draw a conclusion about
+		- analogue subject: the thing you are making the comparison to in order to draw the conclusion
+			- P1. The Analogue Subject is a clear case of $W$.
+			- P2. The primary Subject is Relevantly Similar to the analogue.
+			- C.   The Primary Subject is a case of $W$.
+	- types of analogies
+		- consistency analogies
+			- a conclusion is demanded to remain consistent on 2 similar primary and analogue subjects
+			- primary subjects are commonly statements, decisions, actions or arguments
+				- when subject uis arguments, the analogy becomes refutation by logical analogy
+			- common structure
+				- P1. The analogue subject has features $a$, $b$, and $c$.
+				- P2. Because the analogue subject has features $a$, $b$, and $c$, it is properly judged to be $W$.
+				- P3. The primary subject has features $a$, $b$, and $c$.
+				- C.   The primary subject is properly judged to be $W$.
+		- refutation by logical analogy
+		- advice on evaluating arguments by analogy
+		- inductive analogies
 - ways of criticizing analogies
