@@ -31,3 +31,20 @@ annotation-target:: University/PHIL1001/Workshops/W11 - Video Games.pdf
 >%%TAGS%%
 >
 ^mc6q3lpqbmq
+
+
+>%%
+>```annotation-json
+>{"created":"2026-05-21T10:38:35.798Z","text":"P1 is in a way an empirical observation, Washington commenting on games such as GTA becoming more popular or the maligned Hatred that saw players commit indiscriminate slaughter before being pulled from stores, Washington arguing that despite the wrongness of such acts in reality, many still believe them to be ok in games.\nP2 is also seen by the increasing push in video games to become more realistic, many modern games having realistic lighting and player models. a interesting and shocking example is a recent game that replicates police body cam footage to a shocking realistic detail including camera video artifacting.\nP3 Washington justifies by a analogy of counterfeit money that if it is indistinguishable from real money, would devalue the value of the real money, the argument following that morality is also devalued by the similarly counterfeit moral acts of violent video games.\nP4 follows from the natural assumption a rational individual would not want to devalue morality.","updated":"2026-05-21T10:38:35.798Z","document":{"title":"Elton, Matthew (2000) - Should Vegetarians Play Video Games (Phil Papers 29(1)21-42).pdf copy.pdf.pdf","link":[{"href":"urn:x-pdf:913a18c91108911583c10e308a74d280"},{"href":"vault:/University/PHIL1001/Workshops/W11%20-%20Video%20Games.pdf"}],"documentFingerprint":"913a18c91108911583c10e308a74d280"},"uri":"vault:/University/PHIL1001/Workshops/W11%20-%20Video%20Games.pdf","target":[{"source":"vault:/University/PHIL1001/Workshops/W11%20-%20Video%20Games.pdf","selector":[{"type":"TextPositionSelector","start":2433,"end":2473},{"type":"TextQuoteSelector","exact":"&YQMBJO\u0001\"OZ\u00013BUJPOBMFT\u0001GPS\u0001\u0001UIF\u00011SFNJTFT","prefix":"s!.4UBUF\u0001UIF\u0001BSHVNFOU\u0001JO\u0001PVUMJOF","suffix":"&WBMVBUF\u0001UIF\u0001BSHVNFOU#BDLHSPVOE\u0001"}]}]}
+>```
+>%%
+>*%%PREFIX%%s!.4UBUFUIFBSHVNFOUJOPVUMJOF%%HIGHLIGHT%% ==&YQMBJO"OZ3BUJPOBMFTGPSUIF1SFNJTFT== %%POSTFIX%%&WBMVBUFUIFBSHVNFOU#BDLHSPVOE*
+>%%LINK%%[[#^69xldlk77fp|show annotation]]
+>%%COMMENT%%
+>P1 is in a way an empirical observation, Washington commenting on games such as GTA becoming more popular or the maligned Hatred that saw players commit indiscriminate slaughter before being pulled from stores, Washington arguing that despite the wrongness of such acts in reality, many still believe them to be ok in games.
+>P2 is also seen by the increasing push in video games to become more realistic, many modern games having realistic lighting and player models. a interesting and shocking example is a recent game that replicates police body cam footage to a shocking realistic detail including camera video artifacting.
+>P3 Washington justifies by a analogy of counterfeit money that if it is indistinguishable from real money, would devalue the value of the real money, the argument following that morality is also devalued by the similarly counterfeit moral acts of violent video games.
+>P4 follows from the natural assumption a rational individual would not want to devalue morality.
+>%%TAGS%%
+>
+^69xldlk77fp
