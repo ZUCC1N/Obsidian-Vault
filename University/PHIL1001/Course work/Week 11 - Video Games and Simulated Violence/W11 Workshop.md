@@ -48,3 +48,17 @@ annotation-target:: University/PHIL1001/Workshops/W11 - Video Games.pdf
 >%%TAGS%%
 >
 ^69xldlk77fp
+
+
+>%%
+>```annotation-json
+>{"created":"2026-05-21T10:46:28.251Z","text":"The argument is quite strong, it being quite logically valid. one area i may push back on is the validity of making a, inductive analogy between counterfeit money and counterfeit violence. The point of counterfeit money is to manufacture \"clean\" money for criminal use without truly earning it. violence in video games despite being fake, in many such cases never *condones* such violence. GTA uses violence in a satirical America to in a way mock the fact many people see such acts when simulated as being ok, but the same team at rockstar has made games where the message is that violence is deplorable and begets only more violence, such as Red Dead Redemption 2 that sees the player character Arthur struggle with his immoral life of crime and violence after being diagnosed by tuberculosis. not all games are as mindful of the violence they depict to make a point of the immorality of such violence, but it is a common and strong argument that the sphere of video games may not dilute morality, but instead supply a controlled sandbox that demonstrates morality by presenting immorality and then commenting on the immorality of such acts.","updated":"2026-05-21T10:46:28.251Z","document":{"title":"Elton, Matthew (2000) - Should Vegetarians Play Video Games (Phil Papers 29(1)21-42).pdf copy.pdf.pdf","link":[{"href":"urn:x-pdf:913a18c91108911583c10e308a74d280"},{"href":"vault:/University/PHIL1001/Workshops/W11%20-%20Video%20Games.pdf"}],"documentFingerprint":"913a18c91108911583c10e308a74d280"},"uri":"vault:/University/PHIL1001/Workshops/W11%20-%20Video%20Games.pdf","target":[{"source":"vault:/University/PHIL1001/Workshops/W11%20-%20Video%20Games.pdf","selector":[{"type":"TextPositionSelector","start":2473,"end":2494},{"type":"TextQuoteSelector","exact":"&WBMVBUF\u0001UIF\u0001BSHVNFOU","prefix":"\"OZ\u00013BUJPOBMFT\u0001GPS\u0001\u0001UIF\u00011SFNJTFT","suffix":"#BDLHSPVOE\u0001\u0010\u00014FU\u0001VQmichaelrubin5"}]}]}
+>```
+>%%
+>*%%PREFIX%%"OZ3BUJPOBMFTGPSUIF1SFNJTFT%%HIGHLIGHT%% ==&WBMVBUFUIFBSHVNFOU== %%POSTFIX%%#BDLHSPVOE4FUVQmichaelrubin5*
+>%%LINK%%[[#^6yxqxf7ows|show annotation]]
+>%%COMMENT%%
+>The argument is quite strong, it being quite logically valid. one area i may push back on is the validity of making a, inductive analogy between counterfeit money and counterfeit violence. The point of counterfeit money is to manufacture "clean" money for criminal use without truly earning it. violence in video games despite being fake, in many such cases never *condones* such violence. GTA uses violence in a satirical America to in a way mock the fact many people see such acts when simulated as being ok, but the same team at rockstar has made games where the message is that violence is deplorable and begets only more violence, such as Red Dead Redemption 2 that sees the player character Arthur struggle with his immoral life of crime and violence after being diagnosed by tuberculosis. not all games are as mindful of the violence they depict to make a point of the immorality of such violence, but it is a common and strong argument that the sphere of video games may not dilute morality, but instead supply a controlled sandbox that demonstrates morality by presenting immorality and then commenting on the immorality of such acts.
+>%%TAGS%%
+>
+^6yxqxf7ows
