@@ -1,46 +1,33 @@
-annotation-target:: University/PHIL1001/Workshops/W06 - Parfit (2011) [The Bandits].pdf
+annotation-target:: University/PHIL1001/Workshops/W11 - Video Games.pdf
+
+>%%
+>```annotation-json
+>{"created":"2026-05-21T10:31:31.618Z","text":"There is much debate around the moral impact of Violent video games, concerning how in modern times video games have become increasingly realistic, and allow for graphic depiction's of violence, which despite being not real can still be uncomfortable to some. Washington outlines an argument to explain the immorality of ultra violent video games that goes as such:","updated":"2026-05-21T10:31:31.618Z","document":{"title":"Elton, Matthew (2000) - Should Vegetarians Play Video Games (Phil Papers 29(1)21-42).pdf copy.pdf.pdf","link":[{"href":"urn:x-pdf:913a18c91108911583c10e308a74d280"},{"href":"vault:/University/PHIL1001/Workshops/W11%20-%20Video%20Games.pdf"}],"documentFingerprint":"913a18c91108911583c10e308a74d280"},"uri":"vault:/University/PHIL1001/Workshops/W11%20-%20Video%20Games.pdf","target":[{"source":"vault:/University/PHIL1001/Workshops/W11%20-%20Video%20Games.pdf","selector":[{"type":"TextPositionSelector","start":2494,"end":2513},{"type":"TextQuoteSelector","exact":"#BDLHSPVOE\u0001\u0010\u00014FU\u0001VQ","prefix":"IF\u00011SFNJTFT&WBMVBUF\u0001UIF\u0001BSHVNFOU","suffix":"michaelrubin5/12/2024, 11:30:55 "}]}]}
+>```
+>%%
+>*%%PREFIX%%IF1SFNJTFT&WBMVBUFUIFBSHVNFOU%%HIGHLIGHT%% ==#BDLHSPVOE4FUVQ== %%POSTFIX%%michaelrubin5/12/2024, 11:30:55*
+>%%LINK%%[[#^6w5kf7tfej3|show annotation]]
+>%%COMMENT%%
+>There is much debate around the moral impact of Violent video games, concerning how in modern times video games have become increasingly realistic, and allow for graphic depiction's of violence, which despite being not real can still be uncomfortable to some. Washington outlines an argument to explain the immorality of ultra violent video games that goes as such:
+>%%TAGS%%
+>
+^6w5kf7tfej3
 
 
 >%%
 >```annotation-json
->{"created":"2026-05-21T08:23:36.339Z","text":"The Mere Means Principle, or Formula of Humanity, states an act token is moral if, and only if it does not treat a person as a mere means to an end.  Parfit offers an arugment against the MMP that goes along the lines of:","updated":"2026-05-21T08:23:36.339Z","document":{"title":"Parfit - (2011) - Excerpt - The principled bandits vs. FH.pdf copy","link":[{"href":"urn:x-pdf:d79eafab9b06f21e56453ec06bcebaa7"},{"href":"vault:/University/PHIL1001/Workshops/W06%20-%20Parfit%20(2011)%20[The%20Bandits].pdf"}],"documentFingerprint":"d79eafab9b06f21e56453ec06bcebaa7"},"uri":"vault:/University/PHIL1001/Workshops/W06%20-%20Parfit%20(2011)%20[The%20Bandits].pdf","target":[{"source":"vault:/University/PHIL1001/Workshops/W06%20-%20Parfit%20(2011)%20[The%20Bandits].pdf","selector":[{"type":"TextPositionSelector","start":2605,"end":2624},{"type":"TextQuoteSelector","exact":"Background / Set up","prefix":"\"OZ\u00013BUJPOBMFT\u0001GPS\u0001\u0001UIF\u00011SFNJTFT","suffix":"&WBMVBUF\u0001UIF\u0001BSHVNFOUPHIL1001: W"}]}]}
+>{"created":"2026-05-21T10:33:20.808Z","text":"P1. many violent video games allow a player to commit acts that in real life are deemed immoral.\nP2. Many video games are becoming indistinguishable from reality.\nP3. if simulacrums of moral acts are indistinguishable from acts that are real, the moral value of acts become diminished.\nC1. violent video games devalue and degrade morality.\nP4. it is wrong to participate in acts that devalue morality.\nC. it is immoral to play violent video games.","updated":"2026-05-21T10:33:20.808Z","document":{"title":"Elton, Matthew (2000) - Should Vegetarians Play Video Games (Phil Papers 29(1)21-42).pdf copy.pdf.pdf","link":[{"href":"urn:x-pdf:913a18c91108911583c10e308a74d280"},{"href":"vault:/University/PHIL1001/Workshops/W11%20-%20Video%20Games.pdf"}],"documentFingerprint":"913a18c91108911583c10e308a74d280"},"uri":"vault:/University/PHIL1001/Workshops/W11%20-%20Video%20Games.pdf","target":[{"source":"vault:/University/PHIL1001/Workshops/W11%20-%20Video%20Games.pdf","selector":[{"type":"TextPositionSelector","start":2405,"end":2432},{"type":"TextQuoteSelector","exact":"UBUF\u0001UIF\u0001BSHVNFOU\u0001JO\u0001PVUMJO","prefix":"warp your fragile young minds!.4","suffix":"F&YQMBJO\u0001\"OZ\u00013BUJPOBMFT\u0001GPS\u0001\u0001UIF"}]}]}
 >```
 >%%
->*%%PREFIX%%"OZ3BUJPOBMFTGPSUIF1SFNJTFT%%HIGHLIGHT%% ==Background / Set up== %%POSTFIX%%&WBMVBUFUIFBSHVNFOUPHIL1001: W*
->%%LINK%%[[#^ogpe85qxzo|show annotation]]
+>*%%PREFIX%%warp your fragile young minds!.4%%HIGHLIGHT%% ==UBUFUIFBSHVNFOUJOPVUMJO== %%POSTFIX%%F&YQMBJO"OZ3BUJPOBMFTGPSUIF*
+>%%LINK%%[[#^mc6q3lpqbmq|show annotation]]
 >%%COMMENT%%
->The Mere Means Principle, or Formula of Humanity, states an act token is moral if, and only if it does not treat a person as a mere means to an end.  Parfit offers an arugment against the MMP that goes along the lines of:
+>P1. many violent video games allow a player to commit acts that in real life are deemed immoral.
+>P2. Many video games are becoming indistinguishable from reality.
+>P3. if simulacrums of moral acts are indistinguishable from acts that are real, the moral value of acts become diminished.
+>C1. violent video games devalue and degrade morality.
+>P4. it is wrong to participate in acts that devalue morality.
+>C. it is immoral to play violent video games.
 >%%TAGS%%
 >
-^ogpe85qxzo
-
-
->%%
->```annotation-json
->{"created":"2026-05-21T08:29:30.010Z","text":"P1. Parfit's mother being robbed by bandits is morally wrong.\nP2. MMP states due to giving Parfit's mother an option of what to hand over, they were not treating her as a means, so they were acting right morally.\nC. MMP is false.","updated":"2026-05-21T08:29:30.010Z","document":{"title":"Parfit - (2011) - Excerpt - The principled bandits vs. FH.pdf copy","link":[{"href":"urn:x-pdf:d79eafab9b06f21e56453ec06bcebaa7"},{"href":"vault:/University/PHIL1001/Workshops/W06%20-%20Parfit%20(2011)%20[The%20Bandits].pdf"}],"documentFingerprint":"d79eafab9b06f21e56453ec06bcebaa7"},"uri":"vault:/University/PHIL1001/Workshops/W06%20-%20Parfit%20(2011)%20[The%20Bandits].pdf","target":[{"source":"vault:/University/PHIL1001/Workshops/W06%20-%20Parfit%20(2011)%20[The%20Bandits].pdf","selector":[{"type":"TextPositionSelector","start":2536,"end":2565},{"type":"TextQuoteSelector","exact":"4UBUF\u0001UIF\u0001BSHVNFOU\u0001JO\u0001PVUMJOF","prefix":"f humanity as an end in itself?]","suffix":"&YQMBJO\u0001\"OZ\u00013BUJPOBMFT\u0001GPS\u0001\u0001UIF\u0001"}]}]}
->```
->%%
->*%%PREFIX%%f humanity as an end in itself?]%%HIGHLIGHT%% ==4UBUFUIFBSHVNFOUJOPVUMJOF== %%POSTFIX%%&YQMBJO"OZ3BUJPOBMFTGPSUIF*
->%%LINK%%[[#^6mu368o5bir|show annotation]]
->%%COMMENT%%
->P1. Parfit's mother being robbed by bandits is morally wrong.
->P2. MMP states due to giving Parfit's mother an option of what to hand over, they were not treating her as a means, so they were acting right morally.
->C. MMP is false.
->%%TAGS%%
->
-^6mu368o5bir
-
-
->%%
->```annotation-json
->{"created":"2026-05-21T08:49:32.994Z","text":"P1. it can be commonly agreed that robbery of any kind as theft is immoral, so it is easily discerned that innately this feels wrong.\nP2. in giving their mother a choice, there is some agency in Parfitt's mothers actions, so the robbers were not treating her as a means but still a morally end. you could rationalize this as the robbers believing that indiscriminately robbing her with no choice would be wrong, so by their choice to giver her a choice they were acting according to their own morally correct doe.","updated":"2026-05-21T08:49:32.994Z","document":{"title":"Parfit - (2011) - Excerpt - The principled bandits vs. FH.pdf copy","link":[{"href":"urn:x-pdf:d79eafab9b06f21e56453ec06bcebaa7"},{"href":"vault:/University/PHIL1001/Workshops/W06%20-%20Parfit%20(2011)%20[The%20Bandits].pdf"}],"documentFingerprint":"d79eafab9b06f21e56453ec06bcebaa7"},"uri":"vault:/University/PHIL1001/Workshops/W06%20-%20Parfit%20(2011)%20[The%20Bandits].pdf","target":[{"source":"vault:/University/PHIL1001/Workshops/W06%20-%20Parfit%20(2011)%20[The%20Bandits].pdf","selector":[{"type":"TextPositionSelector","start":2565,"end":2605},{"type":"TextQuoteSelector","exact":"&YQMBJO\u0001\"OZ\u00013BUJPOBMFT\u0001GPS\u0001\u0001UIF\u00011SFNJTFT","prefix":"f?]4UBUF\u0001UIF\u0001BSHVNFOU\u0001JO\u0001PVUMJOF","suffix":"Background / Set up&WBMVBUF\u0001UIF\u0001"}]}]}
->```
->%%
->*%%PREFIX%%f?]4UBUFUIFBSHVNFOUJOPVUMJOF%%HIGHLIGHT%% ==&YQMBJO"OZ3BUJPOBMFTGPSUIF1SFNJTFT== %%POSTFIX%%Background / Set up&WBMVBUFUIF*
->%%LINK%%[[#^mf6t7zev3lc|show annotation]]
->%%COMMENT%%
->P1. it can be commonly agreed that robbery of any kind as theft is immoral, so it is easily discerned that innately this feels wrong.
->P2. in giving their mother a choice, there is some agency in Parfitt's mothers actions, so the robbers were not treating her as a means but still a morally end. you could rationalize this as the robbers believing that indiscriminately robbing her with no choice would be wrong, so by their choice to giver her a choice they were acting according to their own morally correct doe.
->%%TAGS%%
->
-^mf6t7zev3lc
+^mc6q3lpqbmq
