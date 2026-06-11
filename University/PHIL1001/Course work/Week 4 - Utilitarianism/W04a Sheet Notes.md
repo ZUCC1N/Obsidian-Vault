@@ -194,3 +194,17 @@ annotation-target:: University/PHIL1001/Course work/Worksheets/W04a - Utilitaria
 >%%TAGS%%
 >
 ^g3b9qsswb7p
+
+
+>%%
+>```annotation-json
+>{"created":"2026-06-11T06:40:49.398Z","text":"the resulting state from the act-token","updated":"2026-06-11T06:40:49.398Z","document":{"title":"PHIL1001 W04c - Utilitarianism (Lecture Printout)2","link":[{"href":"urn:x-pdf:f5556e7c5c15b2f7853b97b7f3aa9498"},{"href":"vault:/University/PHIL1001/Course%20work/Worksheets/W04a%20-%20Utilitarianism.pdf"}],"documentFingerprint":"f5556e7c5c15b2f7853b97b7f3aa9498"},"uri":"vault:/University/PHIL1001/Course%20work/Worksheets/W04a%20-%20Utilitarianism.pdf","target":[{"source":"vault:/University/PHIL1001/Course%20work/Worksheets/W04a%20-%20Utilitarianism.pdf","selector":[{"type":"TextPositionSelector","start":138,"end":186},{"type":"TextQuoteSelector","exact":"The rightness of an act-token depends upon what?","prefix":"QUENTIALISM CHARACTERIZED.  Q1: ","suffix":" : _____________________________"}]}]}
+>```
+>%%
+>*%%PREFIX%%QUENTIALISM CHARACTERIZED.  Q1:%%HIGHLIGHT%% ==The rightness of an act-token depends upon what?== %%POSTFIX%%: _____________________________*
+>%%LINK%%[[#^aesvrpfgkx|show annotation]]
+>%%COMMENT%%
+>the resulting state from the act-token
+>%%TAGS%%
+>
+^aesvrpfgkx
