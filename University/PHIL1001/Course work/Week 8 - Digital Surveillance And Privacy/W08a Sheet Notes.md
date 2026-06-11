@@ -116,3 +116,31 @@ annotation-target:: University/PHIL1001/Course work/Worksheets/W08a - Privacy.pd
 >%%TAGS%%
 >
 ^p0h361ogbuf
+
+
+>%%
+>```annotation-json
+>{"created":"2026-06-11T07:16:55.241Z","text":"privacy is required to ensure human beings ability to flourish","updated":"2026-06-11T07:16:55.241Z","document":{"title":"PHIL1001 LECTURE PRINTOUT - W08 Privacy","link":[{"href":"urn:x-pdf:1b0185128f32f53a1eb90ba3ec9bf110"},{"href":"vault:/University/PHIL1001/Course%20work/Worksheets/W08a%20-%20Privacy.pdf"}],"documentFingerprint":"1b0185128f32f53a1eb90ba3ec9bf110"},"uri":"vault:/University/PHIL1001/Course%20work/Worksheets/W08a%20-%20Privacy.pdf","target":[{"source":"vault:/University/PHIL1001/Course%20work/Worksheets/W08a%20-%20Privacy.pdf","selector":[{"type":"TextPositionSelector","start":2751,"end":2772},{"type":"TextQuoteSelector","exact":"The Flourishing View.","prefix":"round for a right to privacy? • ","suffix":"   • Respect for Persons View.  "}]}]}
+>```
+>%%
+>*%%PREFIX%%round for a right to privacy? •%%HIGHLIGHT%% ==The Flourishing View.== %%POSTFIX%%• Respect for Persons View.*
+>%%LINK%%[[#^tq81abkskui|show annotation]]
+>%%COMMENT%%
+>privacy is required to ensure human beings ability to flourish
+>%%TAGS%%
+>
+^tq81abkskui
+
+
+>%%
+>```annotation-json
+>{"created":"2026-06-11T07:18:15.276Z","text":"theorises may argue that certain acts such as the NSA collecting call logs is not a matter of privacy invasion as they did not actually listen, but the harm more comes from the now icnreased insecuirty of that information (what if an actor came along that DID want to invade thier privacy and listened to the recorded calls?)","updated":"2026-06-11T07:18:15.276Z","document":{"title":"PHIL1001 LECTURE PRINTOUT - W08 Privacy","link":[{"href":"urn:x-pdf:1b0185128f32f53a1eb90ba3ec9bf110"},{"href":"vault:/University/PHIL1001/Course%20work/Worksheets/W08a%20-%20Privacy.pdf"}],"documentFingerprint":"1b0185128f32f53a1eb90ba3ec9bf110"},"uri":"vault:/University/PHIL1001/Course%20work/Worksheets/W08a%20-%20Privacy.pdf","target":[{"source":"vault:/University/PHIL1001/Course%20work/Worksheets/W08a%20-%20Privacy.pdf","selector":[{"type":"TextPositionSelector","start":2891,"end":2954},{"type":"TextQuoteSelector","exact":"DOES A RIGHT TO PRIVACY SUFFICE TO EXPLAIN PEOPLE’S OBJECTIONS?","prefix":" PRIVACY?             PART VII: ","suffix":"      REFERENCES. Gavison, Ruth "}]}]}
+>```
+>%%
+>*%%PREFIX%%PRIVACY?             PART VII:%%HIGHLIGHT%% ==DOES A RIGHT TO PRIVACY SUFFICE TO EXPLAIN PEOPLE’S OBJECTIONS?== %%POSTFIX%%REFERENCES. Gavison, Ruth*
+>%%LINK%%[[#^aajkccs2u1s|show annotation]]
+>%%COMMENT%%
+>theorises may argue that certain acts such as the NSA collecting call logs is not a matter of privacy invasion as they did not actually listen, but the harm more comes from the now icnreased insecuirty of that information (what if an actor came along that DID want to invade thier privacy and listened to the recorded calls?)
+>%%TAGS%%
+>
+^aajkccs2u1s
