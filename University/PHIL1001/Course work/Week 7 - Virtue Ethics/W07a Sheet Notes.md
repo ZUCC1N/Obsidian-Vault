@@ -69,3 +69,31 @@ annotation-target:: University/PHIL1001/Course work/Worksheets/W07a - Virtue Eth
 >%%TAGS%%
 >
 ^ni8anp5l5af
+
+
+>%%
+>```annotation-json
+>{"created":"2026-06-11T07:08:08.620Z","text":"It places greater emphasis on the actor's morality opposed to the direct morality of an act (implyng moral acts are those done by moral actors)","updated":"2026-06-11T07:08:08.620Z","document":{"title":"Microsoft Word - PHIL1001 LECTURE PRINTOUT - W07 Virtue Ethics.docx","link":[{"href":"urn:x-pdf:5febc1c945ada94f4165dbb8e8977155"},{"href":"vault:/University/PHIL1001/Course%20work/Worksheets/W07a%20-%20Virtue%20Ethics.pdf"}],"documentFingerprint":"5febc1c945ada94f4165dbb8e8977155"},"uri":"vault:/University/PHIL1001/Course%20work/Worksheets/W07a%20-%20Virtue%20Ethics.pdf","target":[{"source":"vault:/University/PHIL1001/Course%20work/Worksheets/W07a%20-%20Virtue%20Ethics.pdf","selector":[{"type":"TextPositionSelector","start":1501,"end":1551},{"type":"TextQuoteSelector","exact":"PART II: WHAT IS DISTINCTIVE ABOUT VIRTUE ETHICS?.","prefix":"ics, 1106b21)     2 LECTURE B:  ","suffix":"    A generic schema for act-cen"}]}]}
+>```
+>%%
+>*%%PREFIX%%ics, 1106b21)     2 LECTURE B:%%HIGHLIGHT%% ==PART II: WHAT IS DISTINCTIVE ABOUT VIRTUE ETHICS?.== %%POSTFIX%%A generic schema for act-cen*
+>%%LINK%%[[#^4szefewqnfw|show annotation]]
+>%%COMMENT%%
+>It places greater emphasis on the actor's morality opposed to the direct morality of an act (implyng moral acts are those done by moral actors)
+>%%TAGS%%
+>
+^4szefewqnfw
+
+
+>%%
+>```annotation-json
+>{"created":"2026-06-11T07:09:07.897Z","text":"it is what a virtuous actor would do given the circumstances","updated":"2026-06-11T07:09:07.897Z","document":{"title":"Microsoft Word - PHIL1001 LECTURE PRINTOUT - W07 Virtue Ethics.docx","link":[{"href":"urn:x-pdf:5febc1c945ada94f4165dbb8e8977155"},{"href":"vault:/University/PHIL1001/Course%20work/Worksheets/W07a%20-%20Virtue%20Ethics.pdf"}],"documentFingerprint":"5febc1c945ada94f4165dbb8e8977155"},"uri":"vault:/University/PHIL1001/Course%20work/Worksheets/W07a%20-%20Virtue%20Ethics.pdf","target":[{"source":"vault:/University/PHIL1001/Course%20work/Worksheets/W07a%20-%20Virtue%20Ethics.pdf","selector":[{"type":"TextPositionSelector","start":1734,"end":1786},{"type":"TextQuoteSelector","exact":"y is a morally right act-token if and only if y.... ","prefix":"m morally right act-tokens. (2) ","suffix":"________________________________"}]}]}
+>```
+>%%
+>*%%PREFIX%%m morally right act-tokens. (2)%%HIGHLIGHT%% ==y is a morally right act-token if and only if y....== %%POSTFIX%%________________________________*
+>%%LINK%%[[#^7j6qjk3sz5j|show annotation]]
+>%%COMMENT%%
+>it is what a virtuous actor would do given the circumstances
+>%%TAGS%%
+>
+^7j6qjk3sz5j

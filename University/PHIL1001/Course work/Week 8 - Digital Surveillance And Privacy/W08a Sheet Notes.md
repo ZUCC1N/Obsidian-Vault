@@ -88,3 +88,31 @@ annotation-target:: University/PHIL1001/Course work/Worksheets/W08a - Privacy.pd
 >%%TAGS%%
 >
 ^0r6ju7nyo6m
+
+
+>%%
+>```annotation-json
+>{"created":"2026-06-11T07:11:45.895Z","text":"method presued by moral codes explored in this course","updated":"2026-06-11T07:11:45.895Z","document":{"title":"PHIL1001 LECTURE PRINTOUT - W08 Privacy","link":[{"href":"urn:x-pdf:1b0185128f32f53a1eb90ba3ec9bf110"},{"href":"vault:/University/PHIL1001/Course%20work/Worksheets/W08a%20-%20Privacy.pdf"}],"documentFingerprint":"1b0185128f32f53a1eb90ba3ec9bf110"},"uri":"vault:/University/PHIL1001/Course%20work/Worksheets/W08a%20-%20Privacy.pdf","target":[{"source":"vault:/University/PHIL1001/Course%20work/Worksheets/W08a%20-%20Privacy.pdf","selector":[{"type":"TextPositionSelector","start":359,"end":407},{"type":"TextQuoteSelector","exact":"Strategy 1: Discover the One-True Moral Theory. ","prefix":" APPLIED ETHICS: SOME METHODS.  ","suffix":"   Strategy 2: The “Pluralist Ap"}]}]}
+>```
+>%%
+>*%%PREFIX%%APPLIED ETHICS: SOME METHODS.%%HIGHLIGHT%% ==Strategy 1: Discover the One-True Moral Theory.== %%POSTFIX%%Strategy 2: The “Pluralist Ap*
+>%%LINK%%[[#^raedeko4q9q|show annotation]]
+>%%COMMENT%%
+>method presued by moral codes explored in this course
+>%%TAGS%%
+>
+^raedeko4q9q
+
+
+>%%
+>```annotation-json
+>{"created":"2026-06-11T07:16:15.069Z","text":"we have a moral requirement to respect others as autonomous beings","updated":"2026-06-11T07:16:15.069Z","document":{"title":"PHIL1001 LECTURE PRINTOUT - W08 Privacy","link":[{"href":"urn:x-pdf:1b0185128f32f53a1eb90ba3ec9bf110"},{"href":"vault:/University/PHIL1001/Course%20work/Worksheets/W08a%20-%20Privacy.pdf"}],"documentFingerprint":"1b0185128f32f53a1eb90ba3ec9bf110"},"uri":"vault:/University/PHIL1001/Course%20work/Worksheets/W08a%20-%20Privacy.pdf","target":[{"source":"vault:/University/PHIL1001/Course%20work/Worksheets/W08a%20-%20Privacy.pdf","selector":[{"type":"TextPositionSelector","start":2777,"end":2803},{"type":"TextQuoteSelector","exact":"Respect for Persons View. ","prefix":"cy? • The Flourishing View.   • ","suffix":"   PART VI: SELF-INTEREST AS A T"}]}]}
+>```
+>%%
+>*%%PREFIX%%cy? • The Flourishing View.   •%%HIGHLIGHT%% ==Respect for Persons View.== %%POSTFIX%%PART VI: SELF-INTEREST AS A T*
+>%%LINK%%[[#^p0h361ogbuf|show annotation]]
+>%%COMMENT%%
+>we have a moral requirement to respect others as autonomous beings
+>%%TAGS%%
+>
+^p0h361ogbuf
