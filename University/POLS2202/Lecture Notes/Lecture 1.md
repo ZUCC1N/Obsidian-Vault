@@ -2,7 +2,6 @@
 - Both a method and subject of inquiry
 - at it's core, the study of different countries 
 - become **cases** that are placed next to each other to reveal similarities and differences
-
 ## Causal reasoning
 - Inductive reasoning
 	- build a hypothesis from evidence
@@ -22,3 +21,32 @@
 - **To control** variables
 	- by comparing similar cases we can reduce moving parts and better focus on the relevant variables
 	- largely very messy method, works in labs but statistically requires a massive data set
+- To understand
+	- helps us gain a deeper understanding, explaining how and why things happen
+	- useful tool is process tracing to understand factors that precede the case
+	- is more a process of story telling
+- To explain
+	- build a generalized theory
+	- focuses on mechanism, interacting social forces that turn independent variables into dependent variables
+		- eg colonialism causes long term poverty
+			- independent variable: colonialism
+			- dependent variable: long term poverty
+			- mechanisms - resource extraction, lack of social welfare, systemic violence, disruption of traditional governance
+## Theory and Empirics 
+- universalism
+	- understand many places to create a universal theory
+	- inevitably paves over variables
+	- dangerous when applying to drastically different and misunderstood states
+- relativism 
+	- focuses on particular characteristics to build a theory around
+	- but can fail to produce generalizable theory outcomes
+- regionalism
+	- the construction of global regions is a common metric in comparative politics
+	- implies comparisons within regions are more useful than interregional comparison
+	- but can be hard to pin down regions, as they can be subjective and could be based off:
+		- proximity
+		- culture
+		- regime type
+		- history
+## What can be Compared?
+- similar things can be compared inorder to better control varibles and isolate the subject of interest
