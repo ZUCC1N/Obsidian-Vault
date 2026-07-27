@@ -49,4 +49,6 @@
 		- regime type
 		- history
 ## What can be Compared?
-- similar things can be compared inorder to better control varibles and isolate the subject of interest
+- Similar things can be compared in order to better control variables and isolate the subject of interest
+- but this similarity can be forced, so must be careful
+- largely is based of an assumption of what is most important ie focus on post ww2 authoritarianism
