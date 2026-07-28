@@ -53,7 +53,6 @@
 - Similar things can be compared in order to better control variables and isolate the subject of interest
 - but this similarity can be forced, so must be careful
 - largely is based of an assumption of what is most important ie focus on post ww2 authoritarianism
-
 # Lecture 02: How to Compare?
 ## Problems for comparativists
 - Case differentiation
@@ -96,3 +95,28 @@
 	- many variables must be accounted to ensure they are actually similar
 ## Most Different System Design (MDSD)
 - Compare cases with nearly nothing in common besides the independent variable
+- fewer variables to account for
+- can be difficult to compare systems that are so different
+- risks cherry picking
+## Methods for comparison
+- Lab
+	- not so useful for social sciences
+- surveys
+	- administer surveys to get peoples input
+	- randomly assign answerers, treat some, some do not
+- field
+	- go out and test your hypothesis on one population, and don't on another to compare
+- natural
+	- compare and evaluate accidental differences in populations 
+	- not as popular now
+- case studies
+	- deep study of one unit in the aim to generalize its research
+	- untangles multi-causality
+	- only a case study if it goes beyond simple description
+- comparative historical analysis
+	- based on process tracing
+	- good for tackling case differentiation
+	- relies on path dependence, suggesting that actions in the past develop inevitable outcomes
+- Ethnography
+	- deep observation by embedding yourself in the studied population long term
+	- difficult due to being resource consuming
