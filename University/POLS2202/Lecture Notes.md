@@ -81,3 +81,18 @@
 - good for theory building and inductive reasoning
 - better mitigates multicausality and confounding variables due to better application of tracing processes
 - can be criticized for not rigorously defining or measuring variables or insufficient sample size
+## Quantitative Studies
+- numeric
+- large focus at the cost of deeper analysis of each case
+- can fail to account for unmeasurable things
+- reveals a relationship exists but struggles to reveal the dynamic of the relationship
+## Most Similar Systems Design (MSSD)
+- compare very similar cases with nearly the same variables with different outcomes
+- pros
+	- excludes irrelevant variables by naturally controlling them
+	- provides a strong link between independent and dependent variable causally
+- cons
+	- finding similar cases is difficult
+	- many variables must be accounted to ensure they are actually similar
+## Most Different System Design (MDSD)
+- Compare cases with nearly nothing in common besides the independent variable
