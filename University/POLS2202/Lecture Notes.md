@@ -1,3 +1,4 @@
+# Lecture 01: Why Compare?
 ## What is comparative politics?
 - Both a method and subject of inquiry
 - at it's core, the study of different countries 
@@ -52,3 +53,8 @@
 - Similar things can be compared in order to better control variables and isolate the subject of interest
 - but this similarity can be forced, so must be careful
 - largely is based of an assumption of what is most important ie focus on post ww2 authoritarianism
+
+# Lecture 02: How to Compare?
+## Problems for comparativists
+- Case differentiation
+	- impossible to find identical cases
