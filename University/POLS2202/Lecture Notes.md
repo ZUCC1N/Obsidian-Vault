@@ -57,4 +57,27 @@
 # Lecture 02: How to Compare?
 ## Problems for comparativists
 - Case differentiation
-	- impossible to find identical cases
+	- impossible to find identical cases, problematic as successful comparison needs as many similar variables as possible
+	- if we don't control a variable it may actually be the variable leading to the outcome we wish to understand
+- Multicausality
+	- even if variables are controlled, is difficult to separate them causally when they all produce the outcome
+- Case scarcity
+	- if your cases are states, there are only 195 recognized states, a very small sample size to select from.
+	- also glazes over subnational variations
+- Selection Bias
+	- inevitably there will be some bias presented in case selection in the form of:
+		- you are more likely to include cases you are familiar with
+		- select by desired outcome to understand (study staters with revolutions to study revolutions)
+- Endogeneity
+	- refers to a circular causal relationship between variables
+	- may also just occur at the same time, not due to causal effects
+- Confounding Variables
+	- an unmeasured variable is the actual cause of the two variables you are concerned with
+- mechanisms
+	- by ignoring the specificity of mechanisms, you may miss important factors that govern your analysis (or make cases less similar than you think)
+## Qualitative Studies
+- non-numeric
+- narrow focus, but deep investigation
+- good for theory building and inductive reasoning
+- better mitigates multicausality and confounding variables due to better application of tracing processes
+- can be criticized for not rigorously defining or measuring variables or insufficient sample size
