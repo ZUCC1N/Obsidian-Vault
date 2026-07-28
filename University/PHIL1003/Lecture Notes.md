@@ -8,7 +8,7 @@
 	- intention
 	- emotion
 ## what is mind?
-- two aspects
+- two main aspects
 	- consciousness
 		- a subjective quality of experience
 		- why do we experience this way but?
@@ -20,3 +20,8 @@
 - doesn't necessarily have to have both
 	- standing beliefs have no conscious
 	- depression or itches have no intent
+- third aspect: special access, only you have direct and immediate access to your mental states
+## mind-body problem
+- how does the body relate to body?
+	- Are mind & body two aspects of a unified reality
+	- or are they composed of two separate parts
