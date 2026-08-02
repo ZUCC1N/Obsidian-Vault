@@ -65,10 +65,18 @@
 							- does not discriminate against people
 							- ensure everyone is treated equally according to their abilities and willingness to use them irrespective of social class
 						- but what about placement in initial social system, or physical characteristics you are born with?
-						- leads to diffrence people, ensure the worse off are the best off. Effectively subsidies the unearned benefit if the best off for the worst off
-					- social contract argument
+						- Leads to difference people, ensure the worse off are the best off. Effectively subsidies them with the unearned benefit of the best off.
+					- Social contract argument
 						- the most fair and just society is the one someone would construct if they had no idea their status, so they would ensure would give any class a happy life.
 						- Problematic as how realistic is this? Not very practical and incredibly theoretical
+			- critics, including Nozick have levied responses to Rawls
+				- Nozick posits that all distribution principles following a pattern ("x according to y", or "all x are to have y") are flawed.
+				- Uses the chamberlain example:
+					- if all attendees at a Harlem Globetrotters game are given the option to give 25 cents to Wilt Chamberlain, in an initially egalitarian distribution people willingly move to more unequal distribution.
+				- Rawls would say this is unjust, but Nozick says it can't be unjust as it was voluntary
+				- there are responses to Nozick's response even:
+					- not all unjust states are directly caused by unjust steps.
+					- does not account for externalities.
 		- there is no sufficient justification as redistribution is inherently unjust
 			- justified by the property rights strategy: taxation deprives persons of wealth they would have enjoyed
 			- presupposes that someone is entitled to their entire pretax income
