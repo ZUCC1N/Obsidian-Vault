@@ -11,5 +11,7 @@
 			- etc
 	- coordinated through prices, and
 		- people engage in exchanges that both parties agree the price of
+		- this helps also coordinate people and resources
+		- but also sometimes bubbles form, where the price does not match the actual value (but perhaps a speculative value)
 	- sustained by rules
 		- 
