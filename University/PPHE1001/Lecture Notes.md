@@ -1,0 +1,15 @@
+# Lecture 01: The Market
+- the market is a social institution that involves:
+	- Voluntary transactions, that are
+		- the market requires both parties to agree to the transaction
+		- but this does not mean that all transactions are beneficial to both parties
+		- still the fact both parties agreed seems like a good reason not to interfere unless we can find a good reason like:
+			- Externalities: limit exchanges that harm others
+			- Exploitation: limit exchanges that unfairly take advantage of people
+			- Equality: limit inequality to allow for more equal exchanges
+			- Paternalism: limit exchanges that will directly harm participants
+			- etc
+	- coordinated through prices, and
+		- people engage in exchanges that both parties agree the price of
+	- sustained by rules
+		- 
