@@ -51,5 +51,19 @@
 	- yes?
 		- unjust via subverting liberty
 			- if all taxation is non-voluntarily your liberty is limited by it
-			- but this assumes that limiting liberty is unjust, and that limiting is unjustified. so for redistrubiton to be unjust, all redistribution must be unjus
-			- 
+			- but this assumes that limiting liberty is unjust, and that limiting is unjustified. So for redistribution to be unjust, all redistribution must be unjustified
+			- two possibilities for it being unjustified
+				- all arguments for redistribution is unsound
+					- justified by the property rights strategy: taxation deprives persons of wealth they would have enjoyed
+					- presupposes that someone is entitled to their entire pretax income
+					- entitlement of property: you have the right to possess, control, use or transfer property without interference
+					- so how does someone gain such a right?
+						- Locke's theory of property: you come to gain property rights on unowned aspects of the external world via your mixing of labor with them.
+						- But how does land rights connect to taxation?
+						- Lockean inherently assume you have property rights over yourself. So you should be able to choose who you sell your labor to
+						- criticism of Locke:
+							- how true is the world is initially unowned?
+							- labour mixing seems weird (if i throw tomato juice into the ocean do i own it?)
+							- tolerates unlimited inequality.
+					- inherently relies on the assumption we all have property r
+				- there is no sufficient justification as redistribution is inherently unjust
