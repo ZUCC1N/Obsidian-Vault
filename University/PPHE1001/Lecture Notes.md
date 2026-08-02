@@ -56,7 +56,19 @@
 			- an argument *against* redistribution being unjust is Rawls difference people
 				- societies are collective ventures, we are all of equal moral value and cooperate in society.
 				- So, justice requires social co-operation to be fair. so a lack of wealth should not hamper your ability to cooperate
-				- but egalitarianism has weird outcomes (everyone earning 1 dollar )
+				- But egalitarianism has weird outcomes (everyone earning 1 dollar says is more fair than everyone earning between 2 dollars and a million dollars)
+				- Rawls argues that inequality must be arranged to best benefit the most disadvantaged (inequality is ok if the worse off are still better off than all alternatives)
+				- Rawls justifies this via the
+					- intuitive argument
+						- equality and liberty also depends on equal access to opportunities
+						- this means a just society:
+							- does not discriminate against people
+							- ensure everyone is treated equally according to their abilities and willingness to use them irrespective of social class
+						- but what about placement in initial social system, or physical characteristics you are born with?
+						- leads to diffrence people, ensure the worse off are the best off. Effectively subsidies the unearned benefit if the best off for the worst off
+					- social contract argument
+						- the most fair and just society is the one someone would construct if they had no idea their status, so they would ensure would give any class a happy life.
+						- Problematic as how realistic is this? Not very practical and incredibly theoretical
 		- there is no sufficient justification as redistribution is inherently unjust
 			- justified by the property rights strategy: taxation deprives persons of wealth they would have enjoyed
 			- presupposes that someone is entitled to their entire pretax income
