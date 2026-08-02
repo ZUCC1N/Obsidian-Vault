@@ -41,4 +41,15 @@
 			- indirect: encourages other forms of freedom such as political freedoms
 		- but can be doubted to truly capture freedom such as:
 			- poverty: how valuable is being able to make transactions when you are too poor to anyway?
-			- wealth and poltiics: if 
+			- Wealth and politics: if you get rich in the market and then can influence politics, is the market really promote political freedom?
+# Lecture 02: Distributive Justice
+- many modern markets have tended to *increasing* inequality, which some are disturbed by
+- a solution is to redistribute wealth, whether directly (transfer payments) or indirectly (public goods).
+- All governments do redistribution to some extent via taxation.
+- Robert Nozick says taxation to be slavery as you are in effect being unpaid for a portion of your work
+- so, is redistribution unjust?
+	- yes?
+		- unjust via subverting liberty
+			- if all taxation is non-voluntarily your liberty is limited by it
+			- but this assumes that limiting liberty is unjust, and that limiting is unjustified. so for redistrubiton to be unjust, all redistribution must be unjus
+			- 
