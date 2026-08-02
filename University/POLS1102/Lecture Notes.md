@@ -15,17 +15,35 @@
 - major states are the only concern
 - presents itself as *morally and ideologically neutral* by arguing against politics should maintain conventional standards of morality
 ### Classical Realism
-- humans are selfish and we cannot change that
+- humans are selfish, and we cannot change that
 - because states are selfish, they compete for power
 - peace is only temporary
+- stability is born from a balance of power
 ### Neorealism
-- 
-#### Defensive and Offensive Realism
-- 
+- not human nature, but the *structure* of the international system encourages and is defined by anarchy and self-help
+- defined by the major powers, be it bipolar, unipolar or multipolar
+#### Defensive Realism
+- states only seek survival so maintain security via alliances
+- conflict is sporadic not constant
+- wars only occur when people exaggerate threats and believe in effectiveness of military
+#### Offensive Realism
+- revisionist states (China) are a threat
+- anarchy encourages them to maximize strength against established powers
+- seek to become regional hegemon, then global
+- great power politics cannot end (no end of history)
 ### Neoclassical Realism
-- 
+- balance of power is filtered via domestic factors (such as the political elite) before becoming foreign policy
 # Lecture 4: Liberalism and Constructivism
 ## Liberalism
-- 
+- if the world become more peaceful and co-operative, it is more just and humane
+- developed against realism, championed by Woodrow Wilson via the League of nations to spread democracy and liberty, but failed (due to the League of Nations deviating from his ideals)
+- key concepts:
+	- states become complexly interdependent via economic exchange and social interaction
+	- significance of international institutions
+	- military forces are less useful solving disputes
+	- soft power opposed to hard power
+	- the globe must head towards global governance
 ## Constructivism
-- 
+- society and history is *constructed* by material and ideational forces
+- constructed mainly via
+	- norm: states agre
