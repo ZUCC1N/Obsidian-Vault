@@ -14,4 +14,11 @@
 		- this helps also coordinate people and resources
 		- but also sometimes bubbles form, where the price does not match the actual value (but perhaps a speculative value)
 	- sustained by rules
-		- 
+		- depends on many laws:
+			- property laws: makes sure property transactions protect your property
+			- contract laws: defines how agreements can be made
+			- labor laws: gives rights to employers and employees (including health and safety)
+			- corporate law: provides framework and rule to setting up businesses
+		- due to being dependent on law, it is interconnected with politics
+		- the question is what rules should the state make to govern the market
+	- 
