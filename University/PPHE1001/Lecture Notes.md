@@ -21,4 +21,24 @@
 			- corporate law: provides framework and rule to setting up businesses
 		- due to being dependent on law, it is interconnected with politics
 		- the question is what rules should the state make to govern the market
-	- 
+- market defenders insist markets to be optimal due to:
+	- efficiency
+		- markets are said to be optimal in a utilitarian sense
+		- Pareto-efficient: it is not possible to make anyone better off without making others worse off
+			- better off is subjective
+			- based off people being rational and choosing based off their preferences
+		- markets always encourage Pareto-improvements via innovation
+		- the First Fundamental Theorem of Welfare Economics (FFTWE) insist that under ideal conditions markets always lead to a Pareto-efficient outcome
+			- ideal conditions mean
+				- the market is competitive
+				- the market price includes <u>all</u> costs, all externalities are accounted for
+			- when non-ideal, deadweight loss is generated, a potential unrealized welfare gain
+			- if a market fails, regulating that market *improves* efficiency
+	- freedom
+		- argues it protects freedom or liberty
+		- two connections between freedom and the market
+			- direct: gives people the liberty to enter contracts and make exchanges
+			- indirect: encourages other forms of freedom such as political freedoms
+		- but can be doubted to truly capture freedom such as:
+			- poverty: how valuable is being able to make transactions when you are too poor to anyway?
+			- wealth and poltiics: if 
