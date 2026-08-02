@@ -46,4 +46,6 @@
 ## Constructivism
 - society and history is *constructed* by material and ideational forces
 - constructed mainly via
-	- norm: states agre
+	- norm: states agree to standards of behavior and institutionalizes those rules. Not due to self-interest but because it has been made legitimate 
+	- National identity: we are more concerned by who we perceive as threats (Australia did not worry about dependence on Japan as we were strong allies, but China is different)
+- importantly the construct can be changed over time by changes in socialization
