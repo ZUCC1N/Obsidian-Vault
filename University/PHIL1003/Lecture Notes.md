@@ -25,3 +25,19 @@
 - how does the body relate to body?
 	- Are mind & body two aspects of a unified reality
 	- or are they composed of two separate parts
+# Lecture 05: Physicalism II
+## mind-brain identity theory
+- mind states = brain states
+- eg pain is just activation of the brain in the part responsible for pain
+- does not deny mind states exist, but just they are mind states at a root
+## argument from simplicity
+- mind state = brain states is simpler than them being correlated by some law
+- so, they must be equivalent
+## causal argument
+- often mental states cause behaviour
+- all physical effects have a physical cause
+- so if a mental state has a physical effect, it can be it's physical cause.
+- the mind is the only cause of sensational physical effects, not sensational causes like pain (pain is a mental state)
+- so, the mind is the ONLY cause of physical sensation
+## problem: knowledge argument
+- if you have all the physical info of the world, you should have knowledge of all knowledge. but we still don't know about experience or consciousness

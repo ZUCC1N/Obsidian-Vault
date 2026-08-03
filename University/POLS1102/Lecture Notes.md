@@ -49,4 +49,18 @@
 	- norm: states agree to standards of behavior and institutionalizes those rules. Not due to self-interest but because it has been made legitimate 
 	- National identity: we are more concerned by who we perceive as threats (Australia did not worry about dependence on Japan as we were strong allies, but China is different)
 - importantly the construct can be changed over time by changes in socialization
-# Lecure 05: Rise of China
+# Lecture 05: Rise of China
+- one of the major nuclear states and permanent member of UNSC.
+- 2nd largest GDP (largest since 2014 if measured in PPP)
+- largest trade nation
+- largest manufacturing nation
+- etc
+- has largest domination on majority of markets (besides most of Central Europe or north America)
+- 1/3 of manufacturing capacity in China
+- launched first aircraft carried in 20212, next in 2017, third in 2022. more to come
+- weaponizes economic and trade relations
+- only country to not flinch in Donald trump doctrine\
+- wields refined rare earth domination against others to force them to back down
+- uses Belt and Road to gain economic and geopolitical influence
+- breakdown of Monroe doctrine status quo
+- flexes territorial dispute in south China sea
