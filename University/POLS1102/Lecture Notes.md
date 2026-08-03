@@ -1,4 +1,4 @@
-# Lecture 3: Realism
+# Lecture 03: Realism
 ## What are theories for?
 - Theories are for:
 	- describing "reality"
@@ -33,7 +33,7 @@
 - great power politics cannot end (no end of history)
 ### Neoclassical Realism
 - balance of power is filtered via domestic factors (such as the political elite) before becoming foreign policy
-# Lecture 4: Liberalism and Constructivism
+# Lecture 04: Liberalism and Constructivism
 ## Liberalism
 - if the world become more peaceful and co-operative, it is more just and humane
 - developed against realism, championed by Woodrow Wilson via the League of nations to spread democracy and liberty, but failed (due to the League of Nations deviating from his ideals)
@@ -49,3 +49,4 @@
 	- norm: states agree to standards of behavior and institutionalizes those rules. Not due to self-interest but because it has been made legitimate 
 	- National identity: we are more concerned by who we perceive as threats (Australia did not worry about dependence on Japan as we were strong allies, but China is different)
 - importantly the construct can be changed over time by changes in socialization
+# Lecure 05: Rise of China
