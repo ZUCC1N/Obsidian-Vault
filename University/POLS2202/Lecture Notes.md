@@ -120,3 +120,18 @@
 - Ethnography
 	- deep observation by embedding yourself in the studied population long term
 	- difficult due to being resource consuming
+# Lecture 03: Race and Ethnicity
+
+## Ethnicity
+
+- ethnicity = collective identity based on shared descent, language, religion or customs
+- not exactly concrete
+- not always been important
+## Race
+
+- system of categorization based on biological distinctions between groups
+- based on phenotypical presentation, such as skin colour
+- scientific consensus has moved to there being no biological basis to race
+- less biological now and more social
+- 
+mostly self explanatory, you have considered this before in POLS1101

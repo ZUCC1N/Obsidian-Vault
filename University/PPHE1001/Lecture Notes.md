@@ -91,8 +91,14 @@
 					- tolerates unlimited inequality.
 			- inherently relies on the assumption we all have rights to our wealth that precedes the state
 			- strange as wealth is a invention via the state, and property rights only exist in the context of a state. there is no property rights without taxation to support a state to defend them
-# Lecture 03: Race and Ethnicity
-## Ethnicity
-- ethnicity = collective identity based on shared descent, language, religion or customs
+# Lecture 03: The Firm
+## What is a commercial firm?
+- Firms are large commercial entities
+- most economic production occurs under commercial firms
+- many firms are extremely powerful both:
+	- socially: power over employment, consumer choices, livng standards
+	- politically: massive sway via lobbying
+## Critiques of the firm
 - 
-## Race
+## Responses to the critiques
+- 
