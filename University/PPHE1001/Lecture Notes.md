@@ -128,3 +128,4 @@
 - Anderson responded herself to this that:
 	- the withdrawing of consent to be effective, workers would need credible and non-trivial ability to inflict cost on an employer, which most cannot realize
 	- if your only option is to consent to a contract, it is ludicrous to suggest someone is unable to then complain about that system
+# Lecture 04:
