@@ -41,3 +41,55 @@
 - so, the mind is the ONLY cause of physical sensation
 ## problem: knowledge argument
 - if you have all the physical info of the world, you should have knowledge of all knowledge. but we still don't know about experience or consciousness
+# Lecture 06: artificial intelligence and consciousness
+- according to physicalism, can computers think?
+- two tiers of ai:
+	- weak ai: a machine can heave as if it is intelligent
+	- strong ai: a machine can really think and truly has a mind
+- two types of ai:
+	- narrow ai: good at one task
+	- general ai: good at most or all things a human is capable of
+- narrow ai is common and better than us, but most still agree they are weak ai
+- LLMs are the closest we get to general ai
+## Turing test
+- not can machines think, but can it pass a test of thinking
+- have a machine respond via text and if someone can be fooled into it being real then it is thinking
+- predicted by 2000 people would be fooled by the average ai.
+	- Eliza in 1966 could fool people, but was just following patterns
+## Chinese room argument
+- person who doesn't speak mandarin is locked in a room with only a rule book on mandarin writing.
+- the output would make you appear to know mandarin, but as you said you don't know
+- ai is just a very fast Chinese room setup that recognises and shuffles syntax, while minds have semantics
+- an objection
+	- the person does not understand, but the system (the person, rule book and room) does understand
+	- but Searle also responds
+		- if a person memorises the rulebook they are now the whole system, but still don't understand
+## consciousness
+- two aspects of the mind
+	- do machines understand (intentions)
+	- do machines have a feeling like being a machine (are they conscious)
+- many researchers agree they have intentions, but no consciousness
+- cam machines ever have an inner point of view
+- reasons Chalmers says FOR saying they are conscious
+	- they say they are conscious
+	- they appear thoughtful
+	- it is domain-general
+- but this still isn't enough. it was trained on conscious people so it obviously will respond that way. they also are unstable, they respond differently every time
+- what features would conscious ai have?
+	- being biological
+	- a body and senses
+	- a world model and model of self.
+- Chalmers rejects the first and doubts the others, saying their is evidence they do currently build world models just poor models of themselves
+	- memory
+	- a global workspace to share information
+	- a single unified agent and point of view
+- Chalmers thinks these are the strongest and likely current systems do not have them
+- all 5 could be added besides biology
+	- so if biology isn't needed, it's possible. if you do, then obviously no
+## moral question
+- if a machine is consciousness or not matters ethically
+	- consciousness gives a capacity to suffer
+	- so if they are, it matters how we treat them
+- 2 issues
+	- if machines are conscious but we deny it: a potential catastrophe of scale (roko's basalisk)
+	- if machines aren't conscious but we say they are: we wrongly place resources on machines moral value when it isn't warranted
