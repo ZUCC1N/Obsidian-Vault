@@ -110,6 +110,15 @@
 	- What is the nature of unionization where control was attempted to be reversed to some extent?
 ## Critiques of the firm
 - Anderson critiques the firm not that firms are inherently unjust, but the way the current labour market is structured creates unequal subordination between workers and employers
-- appeals to freedom or a lack thereof. freedom
+- appeals to freedom or a lack thereof. Freedom follows 3 strains:
+	- negative freedom: freedom is defined by the ability to act without other actors hindering your ability to via coercion after or before the act
+	- positive freedom: freedom is defined by if I am able to realize an act *and* have been given the resources required to undertake it
+	- neo-republican freedom: freedom is defined by the ability to act without there being another actor that is able to hinder the act, regardless of if they hinder the act or not.
+- Ultimately all 3 types of freedom have value in certain context
+- the combination of freedom and authority differs in all cases:
+	- negative freedom: authority seeks to coerce your actions
+	- positive freedom: authority limits your choice of actions
+	- neo-republican freedom: authority is not appropriately restrained allowing them to exercise arbitrary power
+- Anderson's critique lays that contracts are not exhaustive, they allow managers to act how they see fit directing workers as long as it does not breach limitations of contracts or employment laws within the wo
 ## Responses to the critiques
 - 
