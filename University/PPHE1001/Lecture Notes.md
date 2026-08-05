@@ -96,9 +96,20 @@
 - Firms are large commercial entities
 - most economic production occurs under commercial firms
 - many firms are extremely powerful both:
-	- socially: power over employment, consumer choices, livng standards
+	- socially: power over employment, consumer choices, living standards
 	- politically: massive sway via lobbying
+- the paradox is if price is a coordinating factor, why do firms need middle managers to dictate to employees their functions?
+- A response is the transaction costs
+	- cost attached to a transaction outside the cost of the subject of transaction
+- sole proprietors introduces inefficiencies (if you are offering a service at a cost i am willing to accept, but the cost of undergoing the conditions in order to accept that service pushes it out of my budget, we both now are worse off)
+- so firms offer to create efficiency by minimizing transaction costs
+- gig work or contractors complicate this, but there still is a chain of authority to appeal to
+- thus the firm presents a few philosophical concerns
+	- is the authority present in firms just or unjust? What cases are unjust?
+	- If authority is required, should the government place guidelines over contracts?
+	- What is the nature of unionization where control was attempted to be reversed to some extent?
 ## Critiques of the firm
-- 
+- Anderson critiques the firm not that firms are inherently unjust, but the way the current labour market is structured creates unequal subordination between workers and employers
+- appeals to freedom or a lack thereof. freedom
 ## Responses to the critiques
 - 
