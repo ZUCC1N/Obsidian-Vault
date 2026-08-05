@@ -113,12 +113,18 @@
 - appeals to freedom or a lack thereof. Freedom follows 3 strains:
 	- negative freedom: freedom is defined by the ability to act without other actors hindering your ability to via coercion after or before the act
 	- positive freedom: freedom is defined by if I am able to realize an act *and* have been given the resources required to undertake it
-	- neo-republican freedom: freedom is defined by the ability to act without there being another actor that is able to hinder the act, regardless of if they hinder the act or not.
+	- neo-republican freedom: freedom is defined by the ability to act without there being another actor that is able to hinder the act with no justification, regardless of if they hinder the act or not.
 - Ultimately all 3 types of freedom have value in certain context
 - the combination of freedom and authority differs in all cases:
 	- negative freedom: authority seeks to coerce your actions
 	- positive freedom: authority limits your choice of actions
 	- neo-republican freedom: authority is not appropriately restrained allowing them to exercise arbitrary power
-- Anderson's critique lays that contracts are not exhaustive, they allow managers to act how they see fit directing workers as long as it does not breach limitations of contracts or employment laws within the wo
+- Anderson's critique lays that contracts are not exhaustive, they allow managers to act how they see fit directing workers as long as it does not breach limitations of contracts or employment laws within the work place
+- thus this directly allows employers some level of the ability to interfere upon an employee, and thus potential limits on freedom.
+- issue arises that for many contracts this interference is arbitrarily wielded
 ## Responses to the critiques
-- 
+- Robert Mayer responds to Anderson that consent solves this as employees consent to this potential loss of freedom
+- all contracts are agreed to by both parties, so if a person consents to a potential loss of freedom they waive the ability to reneg.
+- Anderson responded herself to this that:
+	- the withdrawing of consent to be effective, workers would need credible and non-trivial ability to inflict cost on an employer, which most cannot realize
+	- if your only option is to consent to a contract, it is ludicrous to suggest someone is unable to then complain about that system
