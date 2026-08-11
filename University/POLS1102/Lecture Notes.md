@@ -72,12 +72,13 @@
 ## The US and Cold War
 - existed in NATO against Warsaw Pact
 - also SEATO in pacific
-- also CENTO across Middle East
+- also CENTO across the Middle East
 	- ultimately sought to box in communism
 - surrounded by "non-aligned" states such as Indonesia, Cambodia, India
-- following cold war the US remained the dominant power
+- following Cold War the US remained the dominant power
 - not just down to US supremacy, USSR also collapsed due to internal conflict
-## Post-Cold War era of unipolarity: the US-domination
-- saw neoliberal globalization, international regimes, promoting democracy and human rights, and railing against perceived security concerns (war on terror,Taiwan/South China Sea)
+## Post-Cold War era of Unipolarity: the US-domination
+- saw neoliberal globalization, international regimes, promoting democracy and human rights, and railing against perceived security concerns (war on terror, Taiwan/South China Sea)
 ## Searching for a new foreign policy: the US in flux
-- long and the short of it is the the US is cooked
+- long and the short of it isthee US is cooked
+# Lecture 07: Japan: advancing towards a normal country status
