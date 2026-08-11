@@ -84,5 +84,19 @@
 # Lecture 07: Japan: advancing towards a normal country status
 ## Background
 - Occupied by US until 1951 after WW2
-- characterised by Yoshida Doctrine
-	- 
+- characterized by Yoshida Doctrine
+	- focus on economic development, naïve of foreign affairs with support with US military and markets
+	- Japan established self-defense force in 1954, but did not assist in Asian military campaigns (Korea. Vietnam)
+	- benefited from US protection to pursue exclusive development, while working with communist China in trade 
+	- emerged in the 1980s as major economic force second only to the US
+	- by 90s assisted in overseas deployments such as mine laying in Gulf War, sending military engineers to Iraq in 2003.
+	- Sent UN peacekeeping missions to Cambodia East Timor and petitioned to become permanent member of the UN security council
+	- defense agency folded into cabinet ministry in 2006 as ministry of defense
+## Now
+- began build up in 2010s
+	- 2013 deploy largest warship since WW2
+	- championed the Quad
+	- Kishida pushes for 2% of GDP to go towards miliary by 2027
+	- Sanae Takaichi pushes to become like the iron lady
+	- change is due to a multitude of factors
+		- accusations of fr
