@@ -82,3 +82,7 @@
 ## Searching for a new foreign policy: the US in flux
 - long and the short of it isthee US is cooked
 # Lecture 07: Japan: advancing towards a normal country status
+## Background
+- Occupied by US until 1951 after WW2
+- characterised by Yoshida Doctrine
+	- 
