@@ -101,12 +101,17 @@
 	- diachronic identity says things are identical if a at t1 is the same object at b at t2, regardless of if they are qualitatively different
 ## the soul theory
 - x and y are the same if they share the same soul
+- implies souls or minds can exist without bodies (since if they could, it is a useless distinction to bring up souls) and perhaps after death
 ## objection to the soul theory
-
+- some object on the grounds there is no good reason to justify our bodies continuing to exist if we can switch our bodies if souls exist
+- Locke objected that supporters must demonstrate why souls are different to material aspects with respect that you can replace material parts, but not the immaterial and still have the same identity
+- others assert souls simply to not exist as there are only material things
 ## the body theory
-
+- x and y are the same if they share the same body
+- appealing as it melds with material existence and materialism
+- falls down that it forbids existence after death and creates issues for things like abortion
 ## objection to the body theory
-
+- the thought experiment of brain swaps creates issues as if we switch  minds we then assume the new body is the person the brain used to belong to
 # Lecture 08: Personal Identity II
 # Lecture 09
 # Lecture 10
