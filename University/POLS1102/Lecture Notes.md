@@ -93,10 +93,14 @@
 	- Sent UN peacekeeping missions to Cambodia East Timor and petitioned to become permanent member of the UN security council
 	- defense agency folded into cabinet ministry in 2006 as ministry of defense
 ## Now
-- began build up in 2010s
-	- 2013 deploy largest warship since WW2
+- began build up in the 2010s
+	- 2013 deployed the largest warship since WW2
 	- championed the Quad
 	- Kishida pushes for 2% of GDP to go towards miliary by 2027
 	- Sanae Takaichi pushes to become like the iron lady
 	- change is due to a multitude of factors
-		- accusations of fr
+		- accusations of free riding from the 90s
+		- doubting alliance with US interdependence
+		- fears of China / North Korea
+		- Escalating tensions in pacific and South China Sea
+	- question is will Japan move forward and memories of WW2 atrocities paint their aggression if they choose such a path.

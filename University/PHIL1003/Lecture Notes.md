@@ -93,3 +93,30 @@
 - 2 issues
 	- if machines are conscious but we deny it: a potential catastrophe of scale (roko's basalisk)
 	- if machines aren't conscious but we say they are: we wrongly place resources on machines moral value when it isn't warranted
+# Lecture 07: Personal Identity I
+## personal identity and diachronic identity
+- there are two types of identity
+	- qualitative identity: all properties are the same
+	- numerical identity: two things are numerically identical if and only if they are equal (the same thing)
+	- diachronic identity says things are identical if a at t1 is the same object at b at t2, regardless of if they are qualitatively different
+## the soul theory
+- x and y are the same if they share the same soul
+## objection to the soul theory
+
+## the body theory
+
+## objection to the body theory
+
+# Lecture 08: Personal Identity II
+# Lecture 09
+# Lecture 10
+# Lecture 11
+# Lecture 12
+# Lecture 13
+# Lecture 14
+# Lecture 15
+# Lecture 16
+# Lecture 17
+# Lecture 18
+# Lecture 19
+# Lecture 20
