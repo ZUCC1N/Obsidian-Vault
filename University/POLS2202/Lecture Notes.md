@@ -158,7 +158,17 @@ mostly self explanatory, you have considered this before in POLS1101
 	- identity
 	- formal institutions
 ## Debates on Religion
-- 
+- secularism argues religion to be a source of irrational beliefs so will become more and more private
+- hard to actually quantify region as no set definition and most studies occurred in the global north, not the entire globe
+## Secularism
+- politics should not be based in religion
+- has variations:
+	- US separation of church and state
+	- French separation of religion and public life
+	- Indian equidistance and equal treatment
+	- Chinese state atheism
+- alas no country has truly separated politics from religion
+- scholarship assumes a Christian western context, and by separating it highlights it as a social category to debate
 # Lecture 05: Gender
 
 # Lecture 06: States
