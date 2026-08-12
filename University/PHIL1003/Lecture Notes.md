@@ -117,9 +117,17 @@
 - x and y are the same if they have the same brain.
 - Objections
 	- intuition says if you swap psychologies with someone regardless of brain we would say the people have swapped body
-	- you know you are the same you as
+	- you know you are the same you as from yesterday without checking you have the same brain
 ## The memory theory 1.0
+- lock argues that identity is defined by the ability to extend back and remember the state you were in. if you can remember then you have the same identity
+- appealing since intuitive, acknowledges first person identity, allows for survival after death and circumvents arguments against say abortion (as you can't remember it)
+- objections
+	- you can remember and forget things at different times, so you create contradictions by relying so heavily on memory
 ## The memory theory 2.0
+- extend Locke to there being a continuous memory chain (you may forget things as long as you remember a period in which you did remember it)
+- objection
+	- circularity: presupposes that you are you inherently as you only have your own memories, not others, so of course you would say you are you.
+	- Solution to circularity: quasi-memories, same as normal ones but you may remember someone else's memories.
 ## personal fission
 ## the memory theory 3.0
 # Lecture 09
