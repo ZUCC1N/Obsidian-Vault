@@ -113,6 +113,15 @@
 ## objection to the body theory
 - the thought experiment of brain swaps creates issues as if we switch  minds we then assume the new body is the person the brain used to belong to
 # Lecture 08: Personal Identity II
+## The brain theory
+- x and y are the same if they have the same brain.
+- Objections
+	- intuition says if you swap psychologies with someone regardless of brain we would say the people have swapped body
+	- you know you are the same you as
+## The memory theory 1.0
+## The memory theory 2.0
+## personal fission
+## the memory theory 3.0
 # Lecture 09
 # Lecture 10
 # Lecture 11
