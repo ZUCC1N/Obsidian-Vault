@@ -136,6 +136,28 @@
 - 
 mostly self explanatory, you have considered this before in POLS1101
 # Lecture 04: Religion
+- important as:
+	- shapes policy
+	- shapes violence
+	- shapes development
+	- shapes form of governance
+	- shapes how people identify
+##  What is Religion?
+- Definitions are problematic:
+	- belief in a deity, but what about Buddhism or Confucianism?
+	- Community of believers, but do all Muslims/Jews/Christians believe the same thing?
+	- Institution based, but do Islam or Hinduism have strict institutions?
+- Can be split along 3 aspects:
+	- beliefs about knowledge of an unseen world and study of that world for our benefit
+	- provides moral basis and imperatives on what a good life entails
+		- but does not account very well for difference in sects
+	- confers some level of political importance or social differences
+- also acts as a source of:
+	- world views
+	- legitimacy
+	- identity
+	- formal institutions
+## Debates on Religion
 - 
 # Lecture 05: Gender
 
