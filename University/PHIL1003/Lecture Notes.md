@@ -127,9 +127,17 @@
 - extend Locke to there being a continuous memory chain (you may forget things as long as you remember a period in which you did remember it)
 - objection
 	- circularity: presupposes that you are you inherently as you only have your own memories, not others, so of course you would say you are you.
-	- Solution to circularity: quasi-memories, same as normal ones but you may remember someone else's memories.
+	- Solution to circularity: quasi-memories, same as normal ones but you may remember someone else's memories. Allows cloning or tele-transportation
 ## personal fission
+- Locke theorizes that if you tele-transported and 1 clone come out on the Moon and 1 came out on Mars, you survive on as both clones
+- but identity involves some amount of experience that goes into memory, so upon experiencing anything both clones would have different memories and thus be different people according to quasi-memories
+- so they would both be you, but they would not be each other; contradiction
+- identity should be one to one, quasi-memory creates a one to many so is insufficient
+- addition: quasi-memory as well as no competitors to the claim of the identity
 ## the memory theory 3.0
+- person b is identical to a iff:
+	- b and a are connected via a quasi-memory-Chain
+	- there are no competitors at the time of b in the quasi-memory-chain connected to a
 # Lecture 09
 # Lecture 10
 # Lecture 11

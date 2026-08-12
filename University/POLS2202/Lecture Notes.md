@@ -135,3 +135,18 @@
 - less biological now and more social
 - 
 mostly self explanatory, you have considered this before in POLS1101
+# Lecture 04: Religion
+- 
+# Lecture 05: Gender
+
+# Lecture 06: States
+
+# Lecture 07: Democracy
+
+# Lecture 08: Authoritarianism
+
+# Lecture 09: Development
+
+# Lecture 10: Social Movements
+
+# Lecture 11: Violence
