@@ -116,10 +116,32 @@
 	- calls for humanitarian intervention
 ## Peace
 ### What is Peace?
-- 
+- Different categories
+	- Negative Peace: an absence of war, most closely aligned with realist perspectives and promotes stability
+	- Positive Peace: promotes social justice, aligned with liberal and critical perspectives. Concerned with human rights, legal and political frameworks.
+	- Sustainable Peace: ongoing peace that requires no external intervention
 ### History of peace building
+- initially concerned with maintaining ceasefires.
+- Modern peace building emerges in 90s
+- Boutros-Ghali's articulates a more holistic understanding of peace
+- academics question the distinction between peace studies and security studies
 ### Liberal peace building
+- seeks to reshape conflict prone societies by:
+	- creating democratic government structures
+	- create state bureaucracy
+	- free markets
+	- protection of human rights
+	- justice and reconciliation
+	- top-down implementation
 ### Criticisms
+- in theory:
+	- questions universal values
+	- top-down structure creates an imposition
+	- comes off as neo-imperialist
+- in practice:
+	- bunkerisation
+	- "peace land"
+	- sexual abuse
 ## Security
 ### What is Security?
 ### Conventional Approaches
