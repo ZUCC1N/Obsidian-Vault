@@ -104,26 +104,28 @@
 		- fears of China / North Korea
 		- Escalating tensions in pacific and South China Sea
 	- question is will Japan move forward and memories of WW2 atrocities paint their aggression if they choose such a path.
-# Lecture 07.5: Global South and the Rise of India
-## Definition
-- based on the French concept of the third estate (the 98% of the population in pre revolutionary France)
-- places it on the global scale, refers to the developing nations that like the third estate wish to become something
-## Characteristics
-### Economy
-- massive amounts of poverty
-### Military
-- yet a disproportionate amount of military expenditure
-### Political Systems
-- a massive range of different political systems present
-### Social cultures
-- no set social cultures, but a large range of different cultures
-## Role in the Cold War
-### Allied vs Non Aligned Movement
-## After the Cold War
-### Failed State
-### War on Terrorism and alliances
-## India as a developing state?
-# Lecture 8:
+# Lecture 8: War, peace and Security
+## War
+- **"War is politics by other means"** Carl von Clausewitz
+- **"Politics is war by other means"** Michel Foucault
+- argued that post Cold War a new form of war has risen:
+	- lacks distinct battles, peace and war
+	- involves the targeting of civilians (ethnic cleansing, genocide)
+	- involves the involvement of non-state actors like mercenaries
+	- spread via global news media
+	- calls for humanitarian intervention
+## Peace
+### What is Peace?
+- 
+### History of peace building
+### Liberal peace building
+### Criticisms
+## Security
+### What is Security?
+### Conventional Approaches
+### Critical Approaches
+### Securitization Theory
+### Case Study: Climate Migration
 # Lecture 9:
 # Lecture 10:
 # Lecture 11:
