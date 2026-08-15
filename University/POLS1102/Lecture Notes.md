@@ -104,7 +104,7 @@
 		- fears of China / North Korea
 		- Escalating tensions in pacific and South China Sea
 	- question is will Japan move forward and memories of WW2 atrocities paint their aggression if they choose such a path.
-# Lecture 8: War, peace and Security
+# Lecture 08: War, peace and Security
 ## War
 - **"War is politics by other means"** Carl von Clausewitz
 - **"Politics is war by other means"** Michel Foucault
@@ -144,11 +144,10 @@
 	- sexual abuse
 ## Security
 ### What is Security?
-### Conventional Approaches
-### Critical Approaches
-### Securitization Theory
-### Case Study: Climate Migration
-# Lecture 9:
+- To be secure: freedom from fear vs freedom from what we want
+- for nation-states, citizens, world
+- provided by cooperation vs self-interest
+# Lecture 09:
 # Lecture 10:
 # Lecture 11:
 # Lecture 12:
