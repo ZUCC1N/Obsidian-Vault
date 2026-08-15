@@ -81,7 +81,7 @@
 - saw neoliberal globalization, international regimes, promoting democracy and human rights, and railing against perceived security concerns (war on terror, Taiwan/South China Sea)
 ## Searching for a new foreign policy: the US in flux
 - long and the short of it isthee US is cooked
-# Lecture 07: Japan: advancing towards a normal country status
+# Lecture 07: Japan: advancing towards normalcy
 ## Background
 - Occupied by US until 1951 after WW2
 - characterized by Yoshida Doctrine
@@ -104,3 +104,35 @@
 		- fears of China / North Korea
 		- Escalating tensions in pacific and South China Sea
 	- question is will Japan move forward and memories of WW2 atrocities paint their aggression if they choose such a path.
+# Lecture 07.5: Global South and the Rise of India
+## Definition
+- based on the French concept of the third estate (the 98% of the population in pre revolutionary France)
+- places it on the global scale, refers to the developing nations that like the third estate wish to become something
+## Characteristics
+### Economy
+- massive amounts of poverty
+### Military
+- yet a disproportionate amount of military expenditure
+### Political Systems
+- a massive range of different political systems present
+### Social cultures
+- no set social cultures, but a large range of different cultures
+## Role in the Cold War
+### Allied vs Non Aligned Movement
+## After the Cold War
+### Failed State
+### War on Terrorism and alliances
+## India as a developing state?
+# Lecture 8:
+# Lecture 9:
+# Lecture 10:
+# Lecture 11:
+# Lecture 12:
+# Lecture 13:
+# Lecture 14:
+# Lecture 15:
+# Lecture 16:
+# Lecture 17:
+# Lecture 18:
+# Lecture 19:
+# Lecture 20:
