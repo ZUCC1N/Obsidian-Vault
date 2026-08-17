@@ -138,7 +138,31 @@
 - person b is identical to a iff:
 	- b and a are connected via a quasi-memory-Chain
 	- there are no competitors at the time of b in the quasi-memory-chain connected to a
-# Lecture 09
+# Lecture 09: The Argument from Design I
+## History
+- early middle ages (400-1100) vs "the golden age" (1100-1500)
+	- saint Augustine, Boethius
+	- saint Anslem, saint Aquinas
+	- marked by the rediscovery of ancient texts
+- concerned with the nature of god, knowledge of him, metaphysics and relation between faith and reason
+- didn't assign themselves as philosophers, but was retroactively labelled as "medieval philosophers" compared to "modern philosophers"
+## today
+- within the 20th century medieval philosophy became a specialization compared to modern, continental, ancient etc
+- last 50 years became focus on medieval philosophy beyond just commentary of god
+## The Argument from Design
+- otherwise known as the teleological argument
+- developed in the golden age, within the context of cosmological arguments for the existence of god
+	- cosmological argument: appeals to nature and how it came to be
+- overtime became separated from cosmological arguments due to appealing to a posteriori information
+- first articulated by Aquinas akin to a first mover argument that directs things to their best ends
+- critiqued by Hume, a Scottish philosopher, part of the triumvirate of "British empiricists" (Locke, Berkley, Hume)
+- influential of problems regarding induction, separation of facts and values, utilitarianism, bundle views of the self, "natural theology"
+- argues that the grounds of morality is not god, but human nature
+- published *Natural History of Religion* in 1757 arguing that religious belief is based in human fear rather than rationality
+- posthumously published Dialogues concerning natural religion in 1779
+	- in it lays out an argument from design, but refutes it as a weak analogy (but is it an argument by analogy?)
+	- also raises an issue that if god exists according to a certain order, who created that order?
+- William Paley's argument of the watch
 # Lecture 10
 # Lecture 11
 # Lecture 12
