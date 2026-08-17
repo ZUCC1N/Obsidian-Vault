@@ -163,7 +163,7 @@
 	- in it lays out an argument from design, but refutes it as a weak analogy (but is it an argument by analogy?)
 	- also raises an issue that if god exists according to a certain order, who created that order?
 - William Paley's argument of the watch
-# Lecture 10
+# Lecture 10: The Argument from Design II
 # Lecture 11
 # Lecture 12
 # Lecture 13
